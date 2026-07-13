@@ -1,1 +1,35 @@
-
+[
+    {
+        "roll": "Roll Call 25",
+        "date": "2026-03-01",
+        "question": "On Passage of H.R. 101",
+        "bill": "H.R. 101 - National Infrastructure Improvement Act",
+        "result": "Passed",
+        "yea": 230,
+        "nay": 200,
+        "present": 2,
+        "notVoting": 3
+    },
+    {
+        "roll": "Roll Call 26",
+        "date": "2026-03-03",
+        "question": "On Adoption of H.Res. 55",
+        "bill": "H.Res. 55 - Resolution Honoring Public Service",
+        "result": "Adopted",
+        "yea": 410,
+        "nay": 15,
+        "present": 1,
+        "notVoting": 9
+    },
+    {
+        "roll": "Roll Call 27",
+        "date": "2026-03-05",
+        "question": "On Passage of H.R. 202",
+        "bill": "H.R. 202 - Education Modernization Act",
+        "result": "Failed",
+        "yea": 190,
+        "nay": 240,
+        "present": 0,
+        "notVoting": 5
+    }
+]
