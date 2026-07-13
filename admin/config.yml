@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: RenjiTsuki/house-clerk
+  branch: main
+
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+
+collections:
+
+  - name: "announcements"
+    label: "Announcements"
+    files:
+
+      - label: "Clerk Announcements"
+        name: "announcements"
+        file: "data/announcements.json"
+
+        fields:
+
+          - label: "Announcements"
+            name: "announcements"
+            widget: "list"
+
+            fields:
+
+              - label: "ID"
+                name: "id"
+                widget: "string"
+
+              - label: "Date"
+                name: "date"
+                widget: "string"
+
+              - label: "Title"
+                name: "title"
+                widget: "string"
+
+              - label: "Priority"
+                name: "priority"
+                widget: "select"
+                options:
+                  - Normal
+                  - Important
+                  - Urgent
+
+              - label: "Description"
+                name: "description"
+                widget: "text"
