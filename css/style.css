@@ -120,3 +120,46 @@ footer {
     padding:20px;
 
 }
+
+table {
+
+width:100%;
+border-collapse:collapse;
+background:white;
+margin-top:20px;
+
+}
+
+
+th {
+
+background:#002868;
+color:white;
+padding:12px;
+
+}
+
+
+td {
+
+padding:12px;
+border-bottom:1px solid #ddd;
+
+}
+
+
+tr:hover {
+
+background:#eeeeee;
+
+}
+
+
+input {
+
+width:100%;
+padding:12px;
+font-size:16px;
+margin-top:15px;
+
+}
