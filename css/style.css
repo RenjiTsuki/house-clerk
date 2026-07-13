@@ -192,3 +192,156 @@ margin-top:20px;
 border-left:5px solid #BF0A30;
 
 }
+
+#committeeList {
+
+display:grid;
+grid-template-columns:
+repeat(auto-fit,minmax(300px,1fr));
+
+gap:20px;
+margin-top:20px;
+
+}
+
+
+.card h3 {
+
+color:#002868;
+
+}
+
+#journalEntries {
+
+display:grid;
+gap:20px;
+margin-top:20px;
+
+}
+
+
+.card p {
+
+line-height:1.5;
+
+}
+
+#calendarEvents {
+
+display:grid;
+gap:20px;
+margin-top:20px;
+
+}
+
+.stats-grid {
+
+display:grid;
+
+grid-template-columns:
+repeat(auto-fit,minmax(220px,1fr));
+
+gap:20px;
+
+margin-top:30px;
+
+}
+
+
+.stats-grid .card {
+
+text-align:center;
+
+}
+
+
+.stats-grid p {
+
+font-size:28px;
+
+font-weight:bold;
+
+color:#002868;
+
+}
+
+#results {
+
+display:grid;
+
+gap:20px;
+
+margin-top:20px;
+
+}
+
+nav {
+
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:10px;
+
+}
+
+
+nav a {
+
+padding:8px 12px;
+
+}
+
+.hero {
+
+text-align:center;
+
+padding:40px;
+
+margin-bottom:30px;
+
+}
+
+
+.hero h2 {
+
+font-size:36px;
+
+}
+
+
+#announcements {
+
+display:grid;
+
+gap:20px;
+
+}
+
+#documents {
+
+display:grid;
+
+gap:20px;
+
+margin-top:20px;
+
+}
+
+
+button {
+
+padding:8px 15px;
+
+cursor:pointer;
+
+}
+
+#announcementList {
+
+display:grid;
+
+gap:20px;
+
+margin-top:20px;
+
+}

@@ -30,13 +30,23 @@ let row = `
 
 <tr>
 
-<td>${vote.roll}</td>
+<td>
+
+<a href="vote.html?id=${vote.id}">
+${vote.roll}
+</a>
+
+</td>
+
 
 <td>${vote.date}</td>
 
+
 <td>${vote.question}</td>
 
+
 <td>${vote.result}</td>
+
 
 </tr>
 

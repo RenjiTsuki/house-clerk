@@ -1,1 +1,44 @@
+[
+    {
+        "id": "transportation",
+        "name": "Committee on Transportation and Infrastructure",
 
+        "chair": "Rep. Alex Johnson",
+
+        "ranking": "Rep. Maria Williams",
+
+        "jurisdiction": "Transportation, infrastructure, highways, aviation, and water resources.",
+
+
+        "members": [
+            "Rep. Alex Johnson",
+            "Rep. Thomas Brown",
+            "Rep. Maria Williams"
+        ],
+
+
+        "agenda": [
+            {
+                "date": "2026-03-15",
+                "title": "Infrastructure Funding Hearing",
+                "location": "Rayburn House Office Building"
+            },
+            {
+                "date": "2026-03-20",
+                "title": "Aviation Safety Review",
+                "location": "Longworth House Office Building"
+            }
+        ],
+
+
+        "hearings": [
+            "Hearing on Highway Modernization Act",
+            "Review of National Transportation Funding"
+        ],
+
+
+        "reports": [
+            "Infrastructure Funding Report 2026"
+        ]
+    }
+]

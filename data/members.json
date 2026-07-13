@@ -1,23 +1,51 @@
 [
     {
+        "id": "alex-johnson",
         "name": "Alex Johnson",
         "state": "Virginia",
         "district": "1",
         "party": "Republican",
-        "position": "Representative"
+        "committees": [
+            "Committee on Transportation and Infrastructure",
+            "House Administration Committee"
+        ],
+        "votes": [
+            {
+    "id": "roll-call-25",
+    "roll": "Roll Call 25",
+    "bill": "H.R. 101",
+    "vote": "Yea"
+},
+            {
+    "id": "roll-call-26",
+    "roll": "Roll Call 26",
+    "bill": "H.Res. 55",
+    "vote": "Yea"
+}
+        ]
     },
     {
+        "id": "maria-williams",
         "name": "Maria Williams",
         "state": "California",
         "district": "12",
         "party": "Democrat",
-        "position": "Representative"
-    },
-    {
-        "name": "Thomas Brown",
-        "state": "Texas",
-        "district": "5",
-        "party": "Republican",
-        "position": "Representative"
+        "committees": [
+            "Committee on Education and Workforce"
+        ],
+        "votes": [
+            {
+    "id": "roll-call-25",
+    "roll": "Roll Call 25",
+    "bill": "H.R. 101",
+    "vote": "Yea"
+},
+            {
+    "id": "roll-call-26",
+    "roll": "Roll Call 26",
+    "bill": "H.Res. 55",
+    "vote": "Yea"
+}
+        ]
     }
 ]

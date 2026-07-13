@@ -1,106 +1,304 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Office of the Clerk | U.S. House of Representatives</title>
+<meta charset="UTF-8">
 
-    <link rel="stylesheet" href="css/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Office of the Clerk | U.S. House of Representatives</title>
+
+<link rel="stylesheet" href="css/style.css">
+
 </head>
+
 
 <body>
 
-<header>
-    <div class="banner">
-        <h1>Office of the Clerk</h1>
-        <p>United States House of Representatives</p>
-    </div>
 
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="pages/members.html">Members</a>
-        <a href="pages/bills.html">Legislation</a>
-        <a href="pages/votes.html">Votes</a>
-        <a href="pages/committees.html">Committees</a>
-        <a href="pages/journal.html">Journal</a>
-        <a href="pages/calendar.html">Calendar</a>
-        <a href="pages/statistics.html">Statistics</a>
-    </nav>
+<header>
+
+<div class="banner">
+
+<h1>Office of the Clerk</h1>
+
+<p>United States House of Representatives</p>
+
+</div>
+
+
+<div id="navigation"></div>
+
+
 </header>
+
 
 
 <main>
 
+
 <section class="hero">
-    <h2>House of Representatives</h2>
-    <p>
-        Official information portal for legislative activity,
-        proceedings, and records.
-    </p>
+
+<h2 id="congress">
+Loading Congress Information...
+</h2>
+
+
+<p id="session"></p>
+
+
 </section>
 
 
-<section class="grid">
-
-<div class="card">
-<h3>House Status</h3>
-<p class="status">● IN SESSION</p>
-<p>
-Next Meeting:
-<br>
-Monday — 12:00 PM EST
-</p>
-</div>
-
-
-<div class="card">
-<h3>Current Congress</h3>
-<p>
-Members: 435
-</p>
-
-<p>
-Majority: Republican
-<br>
-Minority: Democrat
-</p>
-</div>
-
-
-<div class="card">
-<h3>Latest Activity</h3>
-
-<ul>
-<li>H.R. 101 introduced</li>
-<li>Roll Call Vote #25 completed</li>
-<li>Committee report filed</li>
-</ul>
-
-</div>
-
-</section>
 
 
 <section>
 
-<h2>Announcements</h2>
+<h2>Quick Links</h2>
 
-<div class="announcement">
+
+<div class="stats-grid">
+
+
+
+<div class="card">
+
+<a href="pages/members.html">
+
+<h3>Members</h3>
 
 <p>
-The Clerk's Office has published the latest legislative records.
+View Representatives and Member Profiles
 </p>
+
+</a>
 
 </div>
 
+
+
+
+<div class="card">
+
+<a href="pages/bills.html">
+
+<h3>Legislation</h3>
+
+<p>
+Search Bills and Resolutions
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/votes.html">
+
+<h3>Roll Call Votes</h3>
+
+<p>
+View House Voting Records
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/committees.html">
+
+<h3>Committees</h3>
+
+<p>
+Committee Agendas and Hearings
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/journal.html">
+
+<h3>House Journal</h3>
+
+<p>
+Official Proceedings
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/calendar.html">
+
+<h3>Legislative Calendar</h3>
+
+<p>
+House Schedule and Events
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/documents.html">
+
+<h3>Documents</h3>
+
+<p>
+Official House Records
+</p>
+
+</a>
+
+</div>
+
+
+
+
+
+<div class="card">
+
+<a href="pages/announcements.html">
+
+<h3>Announcements</h3>
+
+<p>
+Clerk Notices and Updates
+</p>
+
+</a>
+
+</div>
+
+
+
+
+<div class="card">
+
+<a href="pages/statistics.html">
+
+<h3>Statistics</h3>
+
+<p>
+Congressional Activity Data
+</p>
+
+</a>
+
+</div>
+
+
+
+
+<div class="card">
+
+<a href="pages/search.html">
+
+<h3>Search</h3>
+
+<p>
+Search Legislative Records
+</p>
+
+</a>
+
+</div>
+
+
+
+</div>
+
+
 </section>
+
+
+
+
+
+<section>
+
+
+<h2>Latest Clerk Announcements</h2>
+
+
+<div id="announcements">
+
+
+<p>
+Loading announcements...
+</p>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<section>
+
+
+<h2>House Information</h2>
+
+
+<div class="card">
+
+
+<p>
+The Office of the Clerk maintains official records of the House of Representatives, including legislative activity, voting records, journals, and congressional documents.
+</p>
+
+
+</div>
+
+
+</section>
+
+
 
 
 </main>
 
 
+
+
+
 <footer>
+
 
 <p>
 Office of the Clerk
@@ -108,14 +306,22 @@ Office of the Clerk
 United States House of Representatives
 </p>
 
-<p>
-Unofficial Government Website
-</p>
+
+
+
 
 </footer>
 
 
-<script src="js/main.js"></script>
+
+
+
+<script src="js/navigation.js"></script>
+
+<script src="js/homepage.js"></script>
+
+
 
 </body>
+
 </html>

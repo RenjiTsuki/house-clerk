@@ -1,1 +1,23 @@
-
+[
+    {
+        "id": "notice-001",
+        "date": "2026-03-01",
+        "title": "House Journal Published",
+        "priority": "Normal",
+        "description": "The official proceedings of the House have been released."
+    },
+    {
+        "id": "notice-002",
+        "date": "2026-03-05",
+        "title": "New Legislative Schedule",
+        "priority": "Important",
+        "description": "The House calendar has been updated with upcoming legislative activity."
+    },
+    {
+        "id": "notice-003",
+        "date": "2026-03-08",
+        "title": "Roll Call Records Updated",
+        "priority": "Normal",
+        "description": "Recent voting records are now available through the Clerk portal."
+    }
+]

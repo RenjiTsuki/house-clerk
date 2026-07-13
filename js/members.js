@@ -18,7 +18,8 @@ displayMembers(members);
 function displayMembers(list){
 
 
-let table = document.getElementById("memberTable");
+let table =
+document.getElementById("memberTable");
 
 
 table.innerHTML = "";
@@ -31,7 +32,11 @@ let row = `
 
 <tr>
 
-<td>${member.name}</td>
+<td>
+<a href="member-profile.html?id=${member.id}">
+${member.name}
+</a>
+</td>
 
 <td>${member.state}</td>
 
@@ -51,29 +56,3 @@ table.innerHTML += row;
 
 
 }
-
-
-
-document
-.getElementById("search")
-.addEventListener("keyup", function(){
-
-
-let value = this.value.toLowerCase();
-
-
-let filtered = members.filter(member =>
-
-member.name.toLowerCase().includes(value)
-||
-member.state.toLowerCase().includes(value)
-||
-member.party.toLowerCase().includes(value)
-
-);
-
-
-displayMembers(filtered);
-
-
-});

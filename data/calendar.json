@@ -1,1 +1,23 @@
-
+[
+    {
+        "date": "2026-03-10",
+        "event": "House Session",
+        "time": "12:00 PM",
+        "location": "House Chamber",
+        "description": "Regular legislative session of the House of Representatives."
+    },
+    {
+        "date": "2026-03-12",
+        "event": "Committee Hearing",
+        "time": "10:00 AM",
+        "location": "Rayburn House Office Building",
+        "description": "Hearing on proposed infrastructure legislation."
+    },
+    {
+        "date": "2026-03-15",
+        "event": "Bill Deadline",
+        "time": "5:00 PM",
+        "location": "Clerk's Office",
+        "description": "Deadline for committee reports to be submitted."
+    }
+]
