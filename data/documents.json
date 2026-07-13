@@ -1,23 +1,18 @@
-[
+{
+  "documents": [
     {
-        "id": "journal-2026-03-01",
-        "title": "House Journal - March 1, 2026",
-        "category": "House Journal",
-        "date": "2026-03-01",
-        "description": "Official record of proceedings of the House."
+      "id": "journal-2026-03-01",
+      "title": "House Journal - March 1, 2026",
+      "category": "House Journal",
+      "date": "2026-03-01",
+      "description": "Official record of proceedings of the House."
     },
     {
-        "id": "transport-report-2026",
-        "title": "Transportation Committee Report",
-        "category": "Committee Report",
-        "date": "2026-03-05",
-        "description": "Report on infrastructure legislation."
-    },
-    {
-        "id": "clerk-notice-001",
-        "title": "Clerk Notice 001",
-        "category": "Official Notice",
-        "date": "2026-03-08",
-        "description": "Administrative notice issued by the Clerk's Office."
+      "id": "transport-report-2026",
+      "title": "Transportation Committee Report",
+      "category": "Committee Report",
+      "date": "2026-03-05",
+      "description": "Report on infrastructure legislation."
     }
-]
+  ]
+}
