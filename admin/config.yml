@@ -125,7 +125,6 @@ collections:
       name: "bills"
 
       fields:
-      fields:
 
         - label: "Bills"
           name: "bills"
