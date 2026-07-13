@@ -7,7 +7,7 @@ fetch("../data/journal.json")
 
 .then(data => {
 
-    journals = data;
+    journals = data.journals;
 
     displayJournal(journals);
 
