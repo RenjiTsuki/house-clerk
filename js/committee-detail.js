@@ -11,11 +11,10 @@ fetch("../data/committees.json")
 
 .then(response => response.json())
 
-.then(committees => {
+.then(data => {
 
 
-let committee =
-committees.find(c => c.id === id);
+let data = data.committees.find(c => c.id === id);
 
 
 
