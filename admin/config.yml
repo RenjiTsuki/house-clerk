@@ -176,16 +176,11 @@ collections:
       name: "votes"
 
       fields:
-    
-
         - label: "Votes"
           name: "votes"
           widget: "list"
 
-
           fields:
-
-
             - label: "ID"
               name: "id"
               widget: "string"
@@ -197,16 +192,10 @@ collections:
             - label: "Date"
               name: "date"
               widget: "string"
-            - label: "ID"
-              name: "id"
-              widget: "string"
-
-
 
             - label: "Question"
               name: "question"
               widget: "string"
-
 
             - label: "Bill"
               name: "bill"
@@ -237,40 +226,6 @@ collections:
               widget: "list"
 
               fields:
-
-                - label: "Name"
-                  name: "name"
-                  widget: "string"
-
-                - label: "Party"
-                  name: "party"
-                  widget: "string"
-
-                - label: "Vote"
-                  name: "vote"
-                  widget: "string"
-            - label: "Yea"
-              name: "yea"
-              widget: "number"
-
-            - label: "Nay"
-              name: "nay"
-              widget: "number"
-
-            - label: "Present"
-              name: "present"
-              widget: "number"
-
-            - label: "Not Voting"
-              name: "notVoting"
-              widget: "number"
-
-            - label: "Members"
-              name: "members"
-              widget: "list"
-
-              fields:
-
                 - label: "Name"
                   name: "name"
                   widget: "string"
@@ -536,9 +491,7 @@ collections:
         - label: "Clerk"
           name: "clerk"
           widget: "string"
-        - label: "Clerk"
-          name: "clerk"
-          widget: "string"
+
 
 
 
