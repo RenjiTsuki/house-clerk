@@ -9,32 +9,49 @@ public_folder: "/assets/uploads"
 
 collections:
 
+
 # =========================
 # ANNOUNCEMENTS
 # =========================
 
 - name: "announcements"
   label: "📢 Announcements"
-  file: "data/announcements.json"
-  fields:
 
-    - label: "Announcements"
+  files:
+    - file: "data/announcements.json"
+      label: "Announcements"
       name: "announcements"
-      widget: "list"
 
       fields:
 
-      - label: "Title"
-        name: "title"
-        widget: "string"
+        - label: "Announcements"
+          name: "announcements"
+          widget: "list"
 
-      - label: "Date"
-        name: "date"
-        widget: "string"
+          fields:
 
-      - label: "Description"
-        name: "description"
-        widget: "text"
+            - label: "ID"
+              name: "id"
+              widget: "string"
+
+            - label: "Date"
+              name: "date"
+              widget: "string"
+
+            - label: "Title"
+              name: "title"
+              widget: "string"
+
+            - label: "Priority"
+              name: "priority"
+              widget: "select"
+              options:
+                - Normal
+                - Important
+
+            - label: "Description"
+              name: "description"
+              widget: "text"
 
 
 
@@ -44,35 +61,70 @@ collections:
 
 - name: "members"
   label: "👤 Members"
-  file: "data/members.json"
 
-  fields:
+  files:
+    - file: "data/members.json"
+      label: "Members"
+      name: "members"
 
-  - label: "Members"
-    name: "members"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Members"
+          name: "members"
+          widget: "list"
 
-    - label: "Name"
-      name: "name"
-      widget: "string"
+          fields:
 
-    - label: "Party"
-      name: "party"
-      widget: "string"
+            - label: "ID"
+              name: "id"
+              widget: "string"
 
-    - label: "State"
-      name: "state"
-      widget: "string"
+            - label: "Name"
+              name: "name"
+              widget: "string"
 
-    - label: "District"
-      name: "district"
-      widget: "string"
+            - label: "State"
+              name: "state"
+              widget: "string"
 
-    - label: "Biography"
-      name: "bio"
-      widget: "text"
+            - label: "District"
+              name: "district"
+              widget: "string"
+
+            - label: "Party"
+              name: "party"
+              widget: "select"
+              options:
+                - Republican
+                - Democrat
+                - Independent
+
+            - label: "Committees"
+              name: "committees"
+              widget: "list"
+
+            - label: "Votes"
+              name: "votes"
+              widget: "list"
+
+              fields:
+
+                - label: "Roll"
+                  name: "roll"
+                  widget: "string"
+
+                - label: "Bill"
+                  name: "bill"
+                  widget: "string"
+
+                - label: "Vote"
+                  name: "vote"
+                  widget: "select"
+                  options:
+                    - Yea
+                    - Nay
+                    - Present
+                    - Not Voting
 
 
 
@@ -82,31 +134,47 @@ collections:
 
 - name: "bills"
   label: "📜 Bills"
-  file: "data/bills.json"
 
-  fields:
+  files:
+    - file: "data/bills.json"
+      label: "Bills"
+      name: "bills"
 
-  - label: "Bills"
-    name: "bills"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Bills"
+          name: "bills"
+          widget: "list"
 
-    - label: "Bill Number"
-      name: "number"
-      widget: "string"
+          fields:
 
-    - label: "Title"
-      name: "title"
-      widget: "string"
+            - label: "Number"
+              name: "number"
+              widget: "string"
 
-    - label: "Status"
-      name: "status"
-      widget: "string"
+            - label: "Title"
+              name: "title"
+              widget: "string"
 
-    - label: "Summary"
-      name: "summary"
-      widget: "text"
+            - label: "Sponsor"
+              name: "sponsor"
+              widget: "string"
+
+            - label: "Party"
+              name: "party"
+              widget: "string"
+
+            - label: "Status"
+              name: "status"
+              widget: "string"
+
+            - label: "Committee"
+              name: "committee"
+              widget: "string"
+
+            - label: "Date"
+              name: "date"
+              widget: "string"
 
 
 
@@ -116,31 +184,77 @@ collections:
 
 - name: "votes"
   label: "🗳 Roll Call Votes"
-  file: "data/votes.json"
 
-  fields:
+  files:
+    - file: "data/votes.json"
+      label: "Votes"
+      name: "votes"
 
-  - label: "Votes"
-    name: "votes"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Votes"
+          name: "votes"
+          widget: "list"
 
-    - label: "Vote Number"
-      name: "number"
-      widget: "string"
+          fields:
 
-    - label: "Question"
-      name: "question"
-      widget: "string"
+            - label: "ID"
+              name: "id"
+              widget: "string"
 
-    - label: "Result"
-      name: "result"
-      widget: "string"
+            - label: "Roll"
+              name: "roll"
+              widget: "string"
 
-    - label: "Date"
-      name: "date"
-      widget: "string"
+            - label: "Date"
+              name: "date"
+              widget: "string"
+
+            - label: "Question"
+              name: "question"
+              widget: "string"
+
+            - label: "Bill"
+              name: "bill"
+              widget: "string"
+
+            - label: "Result"
+              name: "result"
+              widget: "string"
+
+            - label: "Yea"
+              name: "yea"
+              widget: "number"
+
+            - label: "Nay"
+              name: "nay"
+              widget: "number"
+
+            - label: "Present"
+              name: "present"
+              widget: "number"
+
+            - label: "Not Voting"
+              name: "notVoting"
+              widget: "number"
+
+            - label: "Members"
+              name: "members"
+              widget: "list"
+
+              fields:
+
+                - label: "Name"
+                  name: "name"
+                  widget: "string"
+
+                - label: "Party"
+                  name: "party"
+                  widget: "string"
+
+                - label: "Vote"
+                  name: "vote"
+                  widget: "string"
 
 
 
@@ -150,27 +264,69 @@ collections:
 
 - name: "committees"
   label: "🏛 Committees"
-  file: "data/committees.json"
 
-  fields:
+  files:
+    - file: "data/committees.json"
+      label: "Committees"
+      name: "committees"
 
-  - label: "Committees"
-    name: "committees"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Committees"
+          name: "committees"
+          widget: "list"
 
-    - label: "Name"
-      name: "name"
-      widget: "string"
+          fields:
 
-    - label: "Chair"
-      name: "chair"
-      widget: "string"
+            - label: "ID"
+              name: "id"
+              widget: "string"
 
-    - label: "Description"
-      name: "description"
-      widget: "text"
+            - label: "Name"
+              name: "name"
+              widget: "string"
+
+            - label: "Chair"
+              name: "chair"
+              widget: "string"
+
+            - label: "Ranking Member"
+              name: "ranking"
+              widget: "string"
+
+            - label: "Jurisdiction"
+              name: "jurisdiction"
+              widget: "text"
+
+            - label: "Members"
+              name: "members"
+              widget: "list"
+
+            - label: "Agenda"
+              name: "agenda"
+              widget: "list"
+
+              fields:
+
+                - label: "Date"
+                  name: "date"
+                  widget: "string"
+
+                - label: "Title"
+                  name: "title"
+                  widget: "string"
+
+                - label: "Location"
+                  name: "location"
+                  widget: "string"
+
+            - label: "Hearings"
+              name: "hearings"
+              widget: "list"
+
+            - label: "Reports"
+              name: "reports"
+              widget: "list"
 
 
 
@@ -180,27 +336,39 @@ collections:
 
 - name: "documents"
   label: "📄 Documents"
-  file: "data/documents.json"
 
-  fields:
+  files:
+    - file: "data/documents.json"
+      label: "Documents"
+      name: "documents"
 
-  - label: "Documents"
-    name: "documents"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Documents"
+          name: "documents"
+          widget: "list"
 
-    - label: "Title"
-      name: "title"
-      widget: "string"
+          fields:
 
-    - label: "Date"
-      name: "date"
-      widget: "string"
+            - label: "ID"
+              name: "id"
+              widget: "string"
 
-    - label: "Description"
-      name: "description"
-      widget: "text"
+            - label: "Title"
+              name: "title"
+              widget: "string"
+
+            - label: "Category"
+              name: "category"
+              widget: "string"
+
+            - label: "Date"
+              name: "date"
+              widget: "string"
+
+            - label: "Description"
+              name: "description"
+              widget: "text"
 
 
 
@@ -209,28 +377,40 @@ collections:
 # =========================
 
 - name: "calendar"
-  label: "📅 House Calendar"
-  file: "data/calendar.json"
+  label: "📅 Calendar"
 
-  fields:
+  files:
+    - file: "data/calendar.json"
+      label: "Calendar"
+      name: "calendar"
 
-  - label: "Events"
-    name: "events"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Events"
+          name: "events"
+          widget: "list"
 
-    - label: "Event"
-      name: "event"
-      widget: "string"
+          fields:
 
-    - label: "Date"
-      name: "date"
-      widget: "string"
+            - label: "Date"
+              name: "date"
+              widget: "string"
 
-    - label: "Description"
-      name: "description"
-      widget: "text"
+            - label: "Event"
+              name: "event"
+              widget: "string"
+
+            - label: "Time"
+              name: "time"
+              widget: "string"
+
+            - label: "Location"
+              name: "location"
+              widget: "string"
+
+            - label: "Description"
+              name: "description"
+              widget: "text"
 
 
 
@@ -240,23 +420,47 @@ collections:
 
 - name: "journal"
   label: "📖 House Journal"
-  file: "data/journal.json"
 
-  fields:
+  files:
+    - file: "data/journal.json"
+      label: "Journal"
+      name: "journal"
 
-  - label: "Entries"
-    name: "entries"
-    widget: "list"
+      fields:
 
-    fields:
+        - label: "Entries"
+          name: "entries"
+          widget: "list"
 
-    - label: "Date"
-      name: "date"
-      widget: "string"
+          fields:
 
-    - label: "Entry"
-      name: "entry"
-      widget: "text"
+            - label: "Date"
+              name: "date"
+              widget: "string"
+
+            - label: "Day"
+              name: "day"
+              widget: "string"
+
+            - label: "Meeting"
+              name: "meeting"
+              widget: "text"
+
+            - label: "Prayer"
+              name: "prayer"
+              widget: "text"
+
+            - label: "Pledge"
+              name: "pledge"
+              widget: "text"
+
+            - label: "Business"
+              name: "business"
+              widget: "list"
+
+            - label: "Adjournment"
+              name: "adjournment"
+              widget: "text"
 
 
 
@@ -266,17 +470,33 @@ collections:
 
 - name: "homepage"
   label: "🏛 Homepage"
-  file: "data/homepage.json"
 
-  fields:
+  files:
+    - file: "data/homepage.json"
+      label: "Homepage"
+      name: "homepage"
 
-  - label: "Title"
-    name: "title"
-    widget: "string"
+      fields:
 
-  - label: "Subtitle"
-    name: "subtitle"
-    widget: "string"
+        - label: "Congress"
+          name: "congress"
+          widget: "string"
+
+        - label: "Session"
+          name: "session"
+          widget: "string"
+
+        - label: "Date"
+          name: "date"
+          widget: "string"
+
+        - label: "Speaker"
+          name: "speaker"
+          widget: "string"
+
+        - label: "Clerk"
+          name: "clerk"
+          widget: "string"
 
 
 
@@ -286,24 +506,50 @@ collections:
 
 - name: "statistics"
   label: "📊 Statistics"
-  file: "data/statistics.json"
 
-  fields:
+  files:
+    - file: "data/statistics.json"
+      label: "Statistics"
+      name: "statistics"
 
-  - label: "Statistics"
-    name: "statistics"
-    widget: "object"
+      fields:
 
-    fields:
+        - label: "Congress"
+          name: "congress"
+          widget: "string"
 
-    - label: "Representatives"
-      name: "representatives"
-      widget: "number"
+        - label: "Members"
+          name: "members"
+          widget: "number"
 
-    - label: "Committees"
-      name: "committees"
-      widget: "number"
+        - label: "Republicans"
+          name: "republicans"
+          widget: "number"
 
-    - label: "Votes"
-      name: "votes"
-      widget: "number"
+        - label: "Democrats"
+          name: "democrats"
+          widget: "number"
+
+        - label: "Independent"
+          name: "independent"
+          widget: "number"
+
+        - label: "Vacancies"
+          name: "vacancies"
+          widget: "number"
+
+        - label: "Bills Introduced"
+          name: "billsIntroduced"
+          widget: "number"
+
+        - label: "Bills Passed"
+          name: "billsPassed"
+          widget: "number"
+
+        - label: "Votes Held"
+          name: "votesHeld"
+          widget: "number"
+
+        - label: "Committees"
+          name: "committees"
+          widget: "number"
