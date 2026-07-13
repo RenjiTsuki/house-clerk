@@ -25,10 +25,10 @@ fetch("../data/committees.json")
 .then(data => {
 
 
-let members = data[0];
-let bills = data[1];
-let votes = data[2];
-let committees = data[3];
+let members = data[0].members;
+let bills = data[1].bills;
+let votes = data[2].votes;
+let committees = data[3].committees;
 
 
 
