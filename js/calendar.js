@@ -7,7 +7,7 @@ fetch("../data/calendar.json")
 
 .then(data => {
 
-    events = data;
+    events = data.events;
 
     displayEvents(events);
 
