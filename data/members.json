@@ -6,12 +6,10 @@
       "state": "Virginia",
       "district": "1",
       "party": "Republican",
-
       "committees": [
         "Committee on Transportation and Infrastructure",
         "House Administration Committee"
       ],
-
       "votes": [
         {
           "id": "roll-call-25",
@@ -20,6 +18,17 @@
           "vote": "Yea"
         }
       ]
+    },
+    {
+      "id": "noah-dremer",
+      "name": "Noah Dremer",
+      "state": "Colorado",
+      "district": "8",
+      "party": "Democrat",
+      "committees": [
+        "Intelligence"
+      ],
+      "votes": []
     }
   ]
 }
