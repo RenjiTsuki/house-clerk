@@ -451,9 +451,6 @@ collections:
             - label: "Adjournment"
               name: "adjournment"
               widget: "text"
-            - label: "Day"
-              name: "day"
-              widget: "string"
 
 
 
