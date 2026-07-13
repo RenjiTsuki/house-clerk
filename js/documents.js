@@ -7,7 +7,7 @@ fetch("../data/documents.json")
 
 .then(data => {
 
-documents = data;
+documents = data.documents;
 
 displayDocuments(documents);
 
