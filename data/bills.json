@@ -1,1 +1,29 @@
-
+[
+    {
+        "number": "H.R. 101",
+        "title": "National Infrastructure Improvement Act",
+        "sponsor": "Rep. Alex Johnson",
+        "party": "Republican",
+        "status": "Passed House",
+        "committee": "Committee on Transportation",
+        "date": "2026-01-15"
+    },
+    {
+        "number": "H.R. 202",
+        "title": "Education Modernization Act",
+        "sponsor": "Rep. Maria Williams",
+        "party": "Democrat",
+        "status": "Introduced",
+        "committee": "Committee on Education",
+        "date": "2026-02-05"
+    },
+    {
+        "number": "H.Res. 55",
+        "title": "Resolution Honoring Public Service",
+        "sponsor": "Rep. Thomas Brown",
+        "party": "Republican",
+        "status": "Adopted",
+        "committee": "House Administration",
+        "date": "2026-02-20"
+    }
+]
