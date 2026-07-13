@@ -11,11 +11,9 @@ fetch("../data/votes.json")
 
 .then(response => response.json())
 
-.then(votes => {
+.then(data => {
 
-
-let vote =
-votes.find(v => v.id === id);
+let vote = data.votes.find(v => v.id === id);
 
 
 
