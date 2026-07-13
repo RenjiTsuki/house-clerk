@@ -14,11 +14,15 @@ fetch("../data/members.json")
   .then(response => response.json())
   .then(data => {
 
+    console.log(data);
+
     members = data.members;
+
+    console.log(members);
 
     displayMembers(members);
 
-  });
+});
 
 function displayMembers(list) {
 
