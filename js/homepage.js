@@ -29,8 +29,7 @@ let box =
 document.getElementById("announcements");
 
 
-data.forEach(item => {
-
+data.announcements.forEach(item => {
 
 box.innerHTML += `
 
