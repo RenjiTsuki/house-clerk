@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: RenjiTsuki/house-clerk
+  name: git-gateway
   branch: main
 
 
