@@ -54,28 +54,12 @@ collections:
       label: "Members"
       name: "members"
 
-  files:
-    - file: "data/members.json"
-      label: "Members"
-      name: "members"
-
       fields:
-      fields:
-
-        - label: "Members"
-          name: "members"
-          widget: "list"
         - label: "Members"
           name: "members"
           widget: "list"
 
           fields:
-
-            - label: "ID"
-              name: "id"
-              widget: "string"
-          fields:
-
             - label: "ID"
               name: "id"
               widget: "string"
@@ -83,20 +67,11 @@ collections:
             - label: "Name"
               name: "name"
               widget: "string"
-            - label: "Name"
-              name: "name"
-              widget: "string"
 
             - label: "State"
               name: "state"
               widget: "string"
-            - label: "State"
-              name: "state"
-              widget: "string"
 
-            - label: "District"
-              name: "district"
-              widget: "string"
             - label: "District"
               name: "district"
               widget: "string"
@@ -118,41 +93,6 @@ collections:
               widget: "list"
 
               fields:
-
-                - label: "Roll"
-                  name: "roll"
-                  widget: "string"
-
-                - label: "Bill"
-                  name: "bill"
-                  widget: "string"
-
-                - label: "Vote"
-                  name: "vote"
-                  widget: "select"
-                  options:
-                    - Yea
-                    - Nay
-                    - Present
-                    - Not Voting
-            - label: "Party"
-              name: "party"
-              widget: "select"
-              options:
-                - Republican
-                - Democrat
-                - Independent
-
-            - label: "Committees"
-              name: "committees"
-              widget: "list"
-
-            - label: "Votes"
-              name: "votes"
-              widget: "list"
-
-              fields:
-
                 - label: "Roll"
                   name: "roll"
                   widget: "string"
@@ -617,11 +557,7 @@ collections:
       name: "calendar"
 
       fields:
-      fields:
 
-        - label: "Events"
-          name: "events"
-          widget: "list"
         - label: "Events"
           name: "events"
           widget: "list"
@@ -631,15 +567,7 @@ collections:
             - label: "Date"
               name: "date"
               widget: "string"
-          fields:
 
-            - label: "Date"
-              name: "date"
-              widget: "string"
-
-            - label: "Event"
-              name: "event"
-              widget: "string"
             - label: "Event"
               name: "event"
               widget: "string"
@@ -651,17 +579,7 @@ collections:
             - label: "Location"
               name: "location"
               widget: "string"
-            - label: "Time"
-              name: "time"
-              widget: "string"
 
-            - label: "Location"
-              name: "location"
-              widget: "string"
-
-            - label: "Description"
-              name: "description"
-              widget: "text"
             - label: "Description"
               name: "description"
               widget: "text"
@@ -680,27 +598,14 @@ collections:
       label: "Journal"
       name: "journal"
 
-  files:
-    - file: "data/journal.json"
-      label: "Journal"
-      name: "journal"
-
-      fields:
       fields:
 
         - label: "Entries"
           name: "entries"
           widget: "list"
-        - label: "Entries"
-          name: "entries"
-          widget: "list"
 
           fields:
-          fields:
 
-            - label: "Date"
-              name: "date"
-              widget: "string"
             - label: "Date"
               name: "date"
               widget: "string"
@@ -732,25 +637,6 @@ collections:
               name: "day"
               widget: "string"
 
-            - label: "Meeting"
-              name: "meeting"
-              widget: "text"
-
-            - label: "Prayer"
-              name: "prayer"
-              widget: "text"
-
-            - label: "Pledge"
-              name: "pledge"
-              widget: "text"
-
-            - label: "Business"
-              name: "business"
-              widget: "list"
-
-            - label: "Adjournment"
-              name: "adjournment"
-              widget: "text"
 
 
 
@@ -766,29 +652,8 @@ collections:
       label: "Homepage"
       name: "homepage"
 
-  files:
-    - file: "data/homepage.json"
-      label: "Homepage"
-      name: "homepage"
-
-      fields:
       fields:
 
-        - label: "Congress"
-          name: "congress"
-          widget: "string"
-
-        - label: "Session"
-          name: "session"
-          widget: "string"
-
-        - label: "Date"
-          name: "date"
-          widget: "string"
-
-        - label: "Speaker"
-          name: "speaker"
-          widget: "string"
         - label: "Congress"
           name: "congress"
           widget: "string"
@@ -834,41 +699,6 @@ collections:
       fields:
       fields:
 
-        - label: "Congress"
-          name: "congress"
-          widget: "string"
-
-        - label: "Members"
-          name: "members"
-          widget: "number"
-
-        - label: "Republicans"
-          name: "republicans"
-          widget: "number"
-
-        - label: "Democrats"
-          name: "democrats"
-          widget: "number"
-
-        - label: "Independent"
-          name: "independent"
-          widget: "number"
-
-        - label: "Vacancies"
-          name: "vacancies"
-          widget: "number"
-
-        - label: "Bills Introduced"
-          name: "billsIntroduced"
-          widget: "number"
-
-        - label: "Bills Passed"
-          name: "billsPassed"
-          widget: "number"
-
-        - label: "Votes Held"
-          name: "votesHeld"
-          widget: "number"
         - label: "Congress"
           name: "congress"
           widget: "string"
