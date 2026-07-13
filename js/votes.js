@@ -7,7 +7,7 @@ fetch("../data/votes.json")
 
 .then(data => {
 
-    votes = data;
+    votes = data.votes;
     displayVotes(votes);
 
 });
