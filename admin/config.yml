@@ -9,42 +9,301 @@ public_folder: "/assets/uploads"
 
 collections:
 
-  - name: "announcements"
-    label: "Announcements"
-    files:
+# =========================
+# ANNOUNCEMENTS
+# =========================
 
-      - label: "Clerk Announcements"
-        name: "announcements"
-        file: "data/announcements.json"
+- name: "announcements"
+  label: "📢 Announcements"
+  file: "data/announcements.json"
+  fields:
 
-        fields:
+    - label: "Announcements"
+      name: "announcements"
+      widget: "list"
 
-          - label: "Announcements"
-            name: "announcements"
-            widget: "list"
+      fields:
 
-            fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
 
-              - label: "ID"
-                name: "id"
-                widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "string"
 
-              - label: "Date"
-                name: "date"
-                widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "text"
 
-              - label: "Title"
-                name: "title"
-                widget: "string"
 
-              - label: "Priority"
-                name: "priority"
-                widget: "select"
-                options:
-                  - Normal
-                  - Important
-                  - Urgent
 
-              - label: "Description"
-                name: "description"
-                widget: "text"
+# =========================
+# MEMBERS
+# =========================
+
+- name: "members"
+  label: "👤 Members"
+  file: "data/members.json"
+
+  fields:
+
+  - label: "Members"
+    name: "members"
+    widget: "list"
+
+    fields:
+
+    - label: "Name"
+      name: "name"
+      widget: "string"
+
+    - label: "Party"
+      name: "party"
+      widget: "string"
+
+    - label: "State"
+      name: "state"
+      widget: "string"
+
+    - label: "District"
+      name: "district"
+      widget: "string"
+
+    - label: "Biography"
+      name: "bio"
+      widget: "text"
+
+
+
+# =========================
+# BILLS
+# =========================
+
+- name: "bills"
+  label: "📜 Bills"
+  file: "data/bills.json"
+
+  fields:
+
+  - label: "Bills"
+    name: "bills"
+    widget: "list"
+
+    fields:
+
+    - label: "Bill Number"
+      name: "number"
+      widget: "string"
+
+    - label: "Title"
+      name: "title"
+      widget: "string"
+
+    - label: "Status"
+      name: "status"
+      widget: "string"
+
+    - label: "Summary"
+      name: "summary"
+      widget: "text"
+
+
+
+# =========================
+# VOTES
+# =========================
+
+- name: "votes"
+  label: "🗳 Roll Call Votes"
+  file: "data/votes.json"
+
+  fields:
+
+  - label: "Votes"
+    name: "votes"
+    widget: "list"
+
+    fields:
+
+    - label: "Vote Number"
+      name: "number"
+      widget: "string"
+
+    - label: "Question"
+      name: "question"
+      widget: "string"
+
+    - label: "Result"
+      name: "result"
+      widget: "string"
+
+    - label: "Date"
+      name: "date"
+      widget: "string"
+
+
+
+# =========================
+# COMMITTEES
+# =========================
+
+- name: "committees"
+  label: "🏛 Committees"
+  file: "data/committees.json"
+
+  fields:
+
+  - label: "Committees"
+    name: "committees"
+    widget: "list"
+
+    fields:
+
+    - label: "Name"
+      name: "name"
+      widget: "string"
+
+    - label: "Chair"
+      name: "chair"
+      widget: "string"
+
+    - label: "Description"
+      name: "description"
+      widget: "text"
+
+
+
+# =========================
+# DOCUMENTS
+# =========================
+
+- name: "documents"
+  label: "📄 Documents"
+  file: "data/documents.json"
+
+  fields:
+
+  - label: "Documents"
+    name: "documents"
+    widget: "list"
+
+    fields:
+
+    - label: "Title"
+      name: "title"
+      widget: "string"
+
+    - label: "Date"
+      name: "date"
+      widget: "string"
+
+    - label: "Description"
+      name: "description"
+      widget: "text"
+
+
+
+# =========================
+# CALENDAR
+# =========================
+
+- name: "calendar"
+  label: "📅 House Calendar"
+  file: "data/calendar.json"
+
+  fields:
+
+  - label: "Events"
+    name: "events"
+    widget: "list"
+
+    fields:
+
+    - label: "Event"
+      name: "event"
+      widget: "string"
+
+    - label: "Date"
+      name: "date"
+      widget: "string"
+
+    - label: "Description"
+      name: "description"
+      widget: "text"
+
+
+
+# =========================
+# JOURNAL
+# =========================
+
+- name: "journal"
+  label: "📖 House Journal"
+  file: "data/journal.json"
+
+  fields:
+
+  - label: "Entries"
+    name: "entries"
+    widget: "list"
+
+    fields:
+
+    - label: "Date"
+      name: "date"
+      widget: "string"
+
+    - label: "Entry"
+      name: "entry"
+      widget: "text"
+
+
+
+# =========================
+# HOMEPAGE
+# =========================
+
+- name: "homepage"
+  label: "🏛 Homepage"
+  file: "data/homepage.json"
+
+  fields:
+
+  - label: "Title"
+    name: "title"
+    widget: "string"
+
+  - label: "Subtitle"
+    name: "subtitle"
+    widget: "string"
+
+
+
+# =========================
+# STATISTICS
+# =========================
+
+- name: "statistics"
+  label: "📊 Statistics"
+  file: "data/statistics.json"
+
+  fields:
+
+  - label: "Statistics"
+    name: "statistics"
+    widget: "object"
+
+    fields:
+
+    - label: "Representatives"
+      name: "representatives"
+      widget: "number"
+
+    - label: "Committees"
+      name: "committees"
+      widget: "number"
+
+    - label: "Votes"
+      name: "votes"
+      widget: "number"
