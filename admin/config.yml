@@ -554,13 +554,7 @@ collections:
       label: "Statistics"
       name: "statistics"
 
-  files:
-    - file: "data/statistics.json"
-      label: "Statistics"
-      name: "statistics"
-
       fields:
-
         - label: "Congress"
           name: "congress"
           widget: "string"
