@@ -11,11 +11,10 @@ fetch("../data/members.json")
 
 .then(response => response.json())
 
-.then(members => {
+.then(data => {
 
 
-let member =
-members.find(person => person.id === id);
+let member = data.members.find(person => person.id === id);
 
 
 
