@@ -7,7 +7,7 @@ fetch("../data/committees.json")
 
 .then(data => {
 
-    committees = data;
+    committees = data.committees;
 
     displayCommittees(committees);
 
