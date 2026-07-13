@@ -1,1 +1,23 @@
-
+[
+    {
+        "name": "Alex Johnson",
+        "state": "Virginia",
+        "district": "1",
+        "party": "Republican",
+        "position": "Representative"
+    },
+    {
+        "name": "Maria Williams",
+        "state": "California",
+        "district": "12",
+        "party": "Democrat",
+        "position": "Representative"
+    },
+    {
+        "name": "Thomas Brown",
+        "state": "Texas",
+        "district": "5",
+        "party": "Republican",
+        "position": "Representative"
+    }
+]
