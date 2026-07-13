@@ -268,13 +268,7 @@ collections:
             - label: "Name"
               name: "name"
               widget: "string"
-            - label: "Name"
-              name: "name"
-              widget: "string"
 
-            - label: "Chair"
-              name: "chair"
-              widget: "string"
             - label: "Chair"
               name: "chair"
               widget: "string"
