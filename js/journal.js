@@ -1,13 +1,10 @@
 let journals = [];
 
-
 fetch("../data/journal.json")
+  .then(response => response.json())
+  .then(data => {
 
-.then(response => response.json())
-
-.then(data => {
-
-    journals = data.journals;
+    journals = data.entries;
 
     displayJournal(journals);
 
@@ -64,7 +61,7 @@ ${entry.pledge}
 
 <ul>
 
-${entry.business.map(item =>
+${(entry.business || []).map(item =>
 
 `<li>${item}</li>`
 
