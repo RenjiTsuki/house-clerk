@@ -2,23 +2,24 @@
   "votes": [
     {
       "id": "roll-call-1",
-      "nay": 0,
+      "roll": "Roll Call 1",
+      "date": "2026-03-01",
       "question": "On Passage of H.R. 9",
       "bill": "H.R. 9 - Homeland Security Coordination Act",
-      "date": "07-12-2026",
-      "yea": 4,
+      "result": "Passed",
+
+      "yea": 24,
+      "nay": 0,
+      "present": 0,
+      "notVoting": 2,
+
       "members": [
         {
           "name": "TallCloud_II",
           "party": "Republican",
           "vote": "Yea"
         }
-      ],
-      "notVoting": 2,
-      "present": 0,
-      "id": "roll-call-1",
-      "result": "Passed",
-      "roll": "Roll Call 1"
+      ]
     }
   ]
 }
