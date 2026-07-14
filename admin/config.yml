@@ -385,6 +385,10 @@ collections:
             - label: "Description"
               name: "description"
               widget: "text"
+
+            - label: "Link"
+              name: "link"
+              widget: "string"
         
 
 
