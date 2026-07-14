@@ -1,6 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: RenjiTsuki/house-clerk
   branch: main
+
+  base_url: https://house-clerk-auth.dreamoversight1.workers.dev
+  auth_endpoint: auth
 
 
 media_folder: "assets/uploads"
