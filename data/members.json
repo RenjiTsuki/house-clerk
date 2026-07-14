@@ -5,7 +5,7 @@
       "name": "TallCloud_II",
       "state": "Indiana",
       "district": "2",
-      "party": "Republican",
+      "party": "Reform",
       "committees": [
         "Judicary Committee",
         "Select Committee on Homeland Security and Intelligence",
@@ -23,15 +23,25 @@
       ]
     },
     {
-      "id": "noah-dremer",
-      "name": "Noah Dremer",
-      "state": "Colorado",
-      "district": "8",
-      "party": "Democrat",
+      "id": "der-panzerfahrerr\t",
+      "name": "Der_PanzerFahrerr\t",
+      "state": "Texas",
+      "district": "7",
+      "party": "Reform",
       "committees": [
-        "Intelligence"
+        "Judiciary Committee",
+        "Armed Services and Veteran Affairs Committee",
+        "Appropriations Oversight and Infrastructure Committee",
+        ""
       ],
-      "votes": []
+      "votes": [
+        {
+          "id": "roll-call-1",
+          "roll": "Roll Call 1",
+          "bill": "H.R. 9 - Homeland Security Coordination Act",
+          "vote": "Yea"
+        }
+      ]
     }
   ]
 }
