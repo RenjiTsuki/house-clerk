@@ -97,6 +97,10 @@ collections:
               widget: "list"
 
               fields:
+                - label: "ID"
+                  name: "id"
+                  widget: "string"
+                  
                 - label: "Roll"
                   name: "roll"
                   widget: "string"
