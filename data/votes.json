@@ -1,25 +1,97 @@
 {
   "votes": [
     {
-      "id": "roll-call-1",
-      "roll": "Roll Call 1",
-      "date": "2026-03-01",
-      "question": "On Passage of H.R. 9",
-      "bill": "H.R. 9 - Homeland Security Coordination Act",
-      "result": "Passed",
-
-      "yea": 24,
       "nay": 0,
-      "present": 0,
-      "notVoting": 2,
-
+      "question": "On Passage of H.Res. 9",
+      "bill": "H.R. 9 - Appointment of WHYYY6",
+      "date": "2026-03-01",
+      "yea": 4,
       "members": [
         {
           "name": "TallCloud_II",
           "party": "Republican",
           "vote": "Yea"
+        },
+        {
+          "name": "0dure",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "aaargoon",
+          "vote": "Not Voting",
+          "party": "Progressive"
+        },
+        {
+          "name": "CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea"
         }
-      ]
+      ],
+      "notVoting": 2,
+      "present": 0,
+      "id": "roll-call-1",
+      "result": "Passed",
+      "roll": "Roll Call 1"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.Res. 11",
+      "bill": "H.Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+      "date": "07-12-2026",
+      "yea": 3,
+      "members": [
+        {
+          "name": "TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "0dure",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "aaargoon",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "theworthycitizen",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "WHYYY6",
+          "party": "Reform",
+          "vote": "Present"
+        }
+      ],
+      "notVoting": 4,
+      "present": 0,
+      "id": "roll-call-2",
+      "result": "Failed",
+      "roll": "Roll Call 2"
     }
   ]
 }
