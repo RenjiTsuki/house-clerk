@@ -1,31 +1,31 @@
 {
   "bills": [
     {
-      "number": "H.R. 101",
-      "title": "National Infrastructure Improvement Act",
-      "sponsor": "Rep. Alex Johnson",
-      "party": "Republican",
-      "status": "Passed House",
-      "committee": "Committee on Transportation",
-      "date": "2026-01-15"
+      "number": "H.R.1",
+      "title": "United States Capitol Police Reform and Accountability Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Failed Senate",
+      "committee": "Committee on Administration, Rules and Ethics",
+      "date": "06-27-2026"
     },
     {
-      "number": "H.R. 202",
-      "title": "Education Modernization Act",
-      "sponsor": "Rep. Maria Williams",
-      "party": "Democrat",
-      "status": "Introduced",
-      "committee": "Committee on Education",
-      "date": "2026-02-05"
-    },
-    {
-      "number": "H.Res. 55",
-      "title": "Resolution Honoring Public Service",
+      "number": "H.R. 2",
+      "title": "Metropolitan Police Department Public Safety and Property Reform Act",
       "sponsor": "Rep. Thomas Brown",
-      "party": "Republican",
-      "status": "Adopted",
-      "committee": "House Administration",
-      "date": "2026-02-20"
+      "party": "Reform",
+      "status": "Signed Into Law",
+      "committee": "Select Committee on Homeland Security and Intelligence",
+      "date": "06-29-2026"
+    },
+    {
+      "number": "H.R. 9",
+      "title": "Homeland Security Coordination Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awating President",
+      "committee": "Select Committee on Homeland Security and Intelligence",
+      "date": "07-09-2026"
     }
   ]
 }
