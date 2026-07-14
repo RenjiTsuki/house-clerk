@@ -26,6 +26,15 @@
       "status": "Awating President",
       "committee": "Select Committee on Homeland Security and Intelligence",
       "date": "07-09-2026"
+    },
+    {
+      "number": "H.Res. 11",
+      "title": "Expelling Representative 0dure, from the House of Representatives",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None",
+      "date": "07-12-2026"
     }
   ]
 }
