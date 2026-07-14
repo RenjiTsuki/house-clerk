@@ -25,6 +25,7 @@ function displayMembers(list) {
     let row = `
       <tr>
         <td><a href="member-profile.html?id=${member.id}">${member.name}</a></td>
+        <td>${member.position}</td>
         <td>${member.state}</td>
         <td>${member.district}</td>
         <td>${member.party}</td>
