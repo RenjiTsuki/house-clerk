@@ -1,7 +1,7 @@
 {
   "bills": [
     {
-      "number": "H.R.1",
+      "number": "H.R. 1",
       "title": "United States Capitol Police Reform and Accountability Act",
       "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
@@ -28,13 +28,139 @@
       "date": "07-09-2026"
     },
     {
+      "number": "H.Res. 1",
+      "title": "Appointment of theworthycitizen",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-23-2026"
+    },
+    {
+      "number": "H.Res. 2",
+      "title": "Appointment of TallCloud_II",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-23-2026"
+    },
+    {
+      "number": "H.Res. 3",
+      "title": "Appointment of CustomSwisher",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-23-2026"
+    },
+    {
+      "number": "H.Res. 4",
+      "title": "Appointment of aaargoon",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-23-2026"
+    },
+    {
+      "number": "H.Res. 5",
+      "title": "Appointment of 0dure",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-23-2026"
+    },
+    {
+      "number": "H.Res. 6",
+      "title": "Appointment of Members to Committees",
+      "sponsor": "DreamOversight",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "06-28-2026"
+    },
+    {
+      "number": "H.Res. 7",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-06-2026"
+    },
+    {
+      "number": "H.Res. 8",
+      "title": "Expelling Representative zeusposidonhades123q, from the House of Representatives",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Withdrawn",
+      "committee": "Committee on Administration Rules and Ethics",
+      "date": "07-09-2026"
+    },
+    {
+      "number": "H.Res. 9",
+      "title": "Appointment of WHYYY6",
+      "sponsor": "b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026"
+    },
+    {
+      "number": "H.Res. 10",
+      "title": "To adopt and enact Standing Rules for the House of Representatives",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026"
+    },
+    {
       "number": "H.Res. 11",
       "title": "Expelling Representative 0dure, from the House of Representatives",
       "sponsor": "TallCloud_II",
       "party": "Reform",
       "status": "Passed",
-      "committee": "None",
+      "committee": "None; Referred to House Floor",
       "date": "07-12-2026"
+    },
+    {
+      "number": "H.Res. 12",
+      "title": "Expelling Representative aaargoon, from the House of Representatives",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026"
+    },
+    {
+      "number": "H.J.Res. 1 ",
+      "title": "Vice Presidential Eligibility amendment of 2026",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "Committee on the Judiciary",
+      "date": "07-06-2026"
+    },
+    {
+      "number": "H.J.Res. 2",
+      "title": "Proposing an amendment to the Constitution of the United States",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Pending Referendum",
+      "committee": "Committee on the Judiciary",
+      "date": "07-09-2026"
+    },
+    {
+      "number": "H.J.Res. 3",
+      "title": "Passing H.R. 6, the Congressional Dueling Restoration Act of 2026, notwithstanding",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Failed Senate",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026"
     }
   ]
 }
