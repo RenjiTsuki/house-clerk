@@ -250,14 +250,14 @@ collections:
                   name: "name"
                   widget: "string"
 
-               - label: "Party"
-                name: "party"
-                widget: "select"
-                options:
-                  - Progressive
-                  - Reform
-                  - Juche
-                  - Independant
+                - label: "Party"
+                  name: "party"
+                  widget: "select"
+                  options:
+                    - Progressive
+                    - Reform
+                    - Juche
+                    - Independent
 
                 - label: "Vote"
                   name: "vote"
