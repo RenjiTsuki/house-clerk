@@ -1,12 +1,15 @@
 {
-    "congress": "42nd Congress",
-    "members": 5,
-    "republicans": 5,
-    "democrats": 0,
-    "independent": 0,
-    "vacancies": 0,
-    "billsIntroduced": 487,
-    "billsPassed": 61,
-    "votesHeld": 20,
-    "committees": 20
+  "progressives": 0,
+  "republicans": 5,
+  "democrats": 0,
+  "reformers": 6,
+  "billsIntroduced": 35,
+  "juche": 1,
+  "committees": 6,
+  "congress": "42nd Congress",
+  "members": 7,
+  "vacancies": 6,
+  "independent": 0,
+  "billsPassed": 34,
+  "votesHeld": 7
 }
