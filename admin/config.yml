@@ -85,8 +85,8 @@ collections:
               widget: "string"
 
             - label: "Party"
-                  name: "party"
-                  widget: "select"
+              name: "party"
+              widget: "select"
                   options:
                     - Progressive
                     - Reform
@@ -160,9 +160,9 @@ collections:
               widget: "string"
 
             - label: "Party"
-                  name: "party"
-                  widget: "select"
-                  options:
+              name: "party"
+              widget: "select"
+                options:
                     - Progressive
                     - Reform
                     - Juche
