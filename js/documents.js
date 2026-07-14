@@ -67,7 +67,7 @@ ${document.description}
 </p>
 
 
-<button onclick="window.open('${doc.link}', '_blank')">
+<button onclick="window.open('${document.link}', '_blank')">
     View Document
 </button>
 
