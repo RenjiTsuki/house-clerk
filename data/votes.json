@@ -92,6 +92,50 @@
       "id": "roll-call-2",
       "result": "Failed",
       "roll": "Roll Call 2"
+    },
+    {
+      "nay": 0,
+      "question": "On Reconsidering H.Res. 11",
+      "bill": "H.Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+      "date": "07-12-2026",
+      "yea": 5,
+      "members": [
+        {
+          "name": "0dure",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "aaargoon",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        }
+      ],
+      "notVoting": 2,
+      "present": 0,
+      "id": "roll-call-3",
+      "result": "Passed",
+      "roll": "Roll Call 3"
     }
   ]
 }
