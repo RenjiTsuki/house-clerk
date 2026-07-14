@@ -85,13 +85,13 @@ collections:
               widget: "string"
 
             - label: "Party"
-              name: "party"
-              widget: "select"
-              options:
-                - Progressive
-                - Reform
-                - Independent
-                - American Juche
+                  name: "party"
+                  widget: "select"
+                  options:
+                    - Progressive
+                    - Reform
+                    - Juche
+                    - Independant
 
             - label: "Committees"
               name: "committees"
@@ -122,6 +122,8 @@ collections:
                     - Nay
                     - Present
                     - Not Voting
+                    - Yea - Proxy
+                    - Nay - Proxy
 
 
 
@@ -158,8 +160,13 @@ collections:
               widget: "string"
 
             - label: "Party"
-              name: "party"
-              widget: "string"
+                  name: "party"
+                  widget: "select"
+                  options:
+                    - Progressive
+                    - Reform
+                    - Juche
+                    - Independant
 
             - label: "Status"
               name: "status"
@@ -245,11 +252,24 @@ collections:
 
                 - label: "Party"
                   name: "party"
-                  widget: "string"
+                  widget: "select"
+                  options:
+                    - Progressive
+                    - Reform
+                    - Juche
+                    - Independant
 
                 - label: "Vote"
                   name: "vote"
-                  widget: "string"
+                  widget: "select"
+                  options:
+                    - Yea
+                    - Nay
+                    - Present
+                    - Not Voting
+                    - Yea - Proxy
+                    - Nay - Proxy
+                    
 
 
 
@@ -520,16 +540,20 @@ collections:
           name: "members"
           widget: "number"
 
-        - label: "Republicans"
-          name: "republicans"
+        - label: "Reformers"
+          name: "reformers"
           widget: "number"
 
-        - label: "Democrats"
-          name: "democrats"
+        - label: "Progressives"
+          name: "progressives"
           widget: "number"
 
         - label: "Independent"
           name: "independent"
+          widget: "number"
+
+        - label: "Juche"
+          name: "juche"
           widget: "number"
 
         - label: "Vacancies"
