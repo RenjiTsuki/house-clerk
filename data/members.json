@@ -13,7 +13,13 @@
         "Armed Services and Veteran Affairs Committee",
         "Adminitration Rules and Ethics Committee"
       ],
-      "votes": []
+      "votes": [
+        {
+          "vote": "Yea",
+          "bill": "H.R. 9 - Homeland Security Coordination Act",
+          "roll": "Roll Call 1"
+        }
+      ]
     },
     {
       "id": "noah-dremer",
