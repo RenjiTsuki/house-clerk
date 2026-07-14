@@ -180,6 +180,9 @@ collections:
               name: "date"
               widget: "string"
 
+            - label: "Bill Document"
+              name: "document"
+              widget: "string"
 
 
 
