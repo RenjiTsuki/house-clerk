@@ -1,20 +1,20 @@
 {
   "documents": [
     {
-      "id": "h-res-11-document",
-      "title": "House Resolution 11 ",
-      "category": "Resolution",
-      "date": "07-12-2026",
-      "description": "A Resolution to expel Representative 0dure from the House of Representatives.",
-      "link": "https://drive.google.com/file/d/1MojCeTD470R7BdFOoDJtclr4MR1cmyOj/view?usp=sharing"
-    },
-    {
       "id": "h-res-17-document",
       "category": "Resolutions",
       "title": "Standing Rules of the House",
       "date": "07-13-2026",
       "description": "The current standing rules of the House of Representatives for the 42nd Congress.",
       "link": "https://drive.google.com/file/d/1dZa45zfRMlMj12c_IhHxaUJ50I8CMOuE/view?usp=sharing"
+    },
+    {
+      "id": "h-res-11-document",
+      "title": "House Resolution 11 ",
+      "category": "Resolution",
+      "date": "07-12-2026",
+      "description": "A Resolution to expel Representative 0dure from the House of Representatives.",
+      "link": "https://drive.google.com/file/d/1MojCeTD470R7BdFOoDJtclr4MR1cmyOj/view?usp=sharing"
     }
   ]
 }
