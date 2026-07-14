@@ -7,17 +7,13 @@
       "district": "1",
       "party": "Republican",
       "committees": [
-        "Committee on Transportation and Infrastructure",
-        "House Administration Committee"
+        "Judicary Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Forign Affairs Committee",
+        "Armed Services and Veteran Affairs Committee",
+        "Adminitration Rules and Ethics Committee"
       ],
-      "votes": [
-        {
-          "id": "roll-call-25",
-          "roll": "Roll Call 25",
-          "bill": "H.R. 101",
-          "vote": "Yea"
-        }
-      ]
+      "votes": []
     },
     {
       "id": "noah-dremer",
