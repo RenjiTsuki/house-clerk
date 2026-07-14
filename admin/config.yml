@@ -72,6 +72,10 @@ collections:
               name: "name"
               widget: "string"
 
+            - label: "Position"
+              name: "position"
+              widget: "string"
+
             - label: "State"
               name: "state"
               widget: "string"
