@@ -1,41 +1,83 @@
 {
   "committees": [
     {
-      "id": "transportation",
-      "name": "Committee on Transportation and Infrastructure",
-
-      "chair": "Rep. Alex Johnson",
-
-      "ranking": "Rep. Maria Williams",
-
-      "jurisdiction": "Transportation, infrastructure, highways, aviation, and water resources.",
-
+      "jurisdiction": "The Committee on the Judiciary shall have jurisdiction over the judiciary and judicial proceedings, civil and criminal law, administrative practice and procedure, constitutional amendments, civil liberties, criminal law enforcement and criminalization, federal courts and judges, local courts in territories and possessions, immigration policy and non-border enforcement, claims against the United States, meetings of Congress, attendance of Members, incompatible offices, national penitentiaries, presidential succession, protection of trade and commerce against unlawful restraints and monopolies, revision and codification of the statutes of the United States, and state and territorial boundary lines.",
+      "chair": "Vacant",
+      "name": "Committee on the Judiciary",
+      "agenda": [],
+      "ranking": "Vacant",
       "members": [
-        "Rep. Alex Johnson",
-        "Rep. Thomas Brown",
-        "Rep. Maria Williams"
+        "Rep. Der_PanzerFahrerr",
+        "Rep. TallCloud_II"
       ],
-
+      "id": "judiciary",
+      "reports": [
+        "None"
+      ],
+      "hearings": [
+        "None"
+      ]
+    },
+    {
+      "id": "armed-services",
+      "name": "Committee on Armed Services and Veteran Affairs",
+      "chair": "Vacant",
+      "ranking": "Rep. Der_PanzerFahrerr",
+      "members": [
+        "Rep. TallCloud_II",
+        "Rep. John Brutus"
+      ],
+      "jurisdiction": "The Committee on Armed Services and Veterans Affairs shall have jurisdiction over the common defense generally; the Department of Defense and the Departments of the Army, Navy, and Air Force generally; tactical intelligence and intelligence-related activities of the Department of Defense; pay, promotion, retirement, benefits, privileges, training, command, organization, equipment, readiness, discipline, and administration of members of the armed forces; selective service; size and composition of the armed forces; strategic and critical materials necessary for the common defense; veterans’ measures generally; readjustment of service members to civil life; service members’ civil relief; and such other military and veterans matters as may be referred by the Speaker or the House."
+    },
+    {
+      "id": "homeland",
+      "name": "Select Committee on Homeland Security and Intelligence",
+      "chair": "Rep. TallCloud_II",
+      "ranking": "Vacant",
+      "jurisdiction": "The Committee on Homeland Security and Intelligence shall have jurisdiction over homeland security, intelligence, counterintelligence, counterterrorism, internal security, subversive activities affecting the security of the United States, the Department of Homeland Security, the Intelligence Community, intelligence-related activities not otherwise assigned, coordination among homeland security and intelligence agencies, classified and sensitive security oversight, and government activities relating to homeland security and intelligence. The Committee on Homeland Security and Intelligence shall review and study on a continuing basis all government activities relating to homeland security and intelligence, including the interaction of departments and agencies with the Department of Homeland Security, the Office of the Director of National Intelligence, and any Intelligence Community element.",
+      "members": [
+        "Rep. CustomSwisher"
+      ],
       "agenda": [
         {
-          "date": "2026-03-15",
-          "title": "Infrastructure Funding Hearing",
-          "location": "Rayburn House Office Building"
-        },
-        {
-          "date": "2026-03-20",
-          "title": "Aviation Safety Review",
-          "location": "Longworth House Office Building"
+          "date": "07-07-2026",
+          "title": "House Subpoena - SeraphOrion",
+          "location": "Assigned House Committee Channel"
         }
-      ],
-
-      "hearings": [
-        "Hearing on Highway Modernization Act",
-        "Review of National Transportation Funding"
-      ],
-
-      "reports": [
-        "Infrastructure Funding Report 2026"
+      ]
+    },
+    {
+      "id": "foreign-affairs",
+      "name": "Committee on Foreign Affairs",
+      "chair": "Vacant",
+      "ranking": "Vacant",
+      "jurisdiction": "The Committee on Foreign Affairs shall have jurisdiction over relations of the United States with foreign nations generally; treaties, agreements, diplomatic relations, foreign ministers, international conferences, international organizations, intervention abroad, declarations of war, neutrality, protection of American citizens abroad, expatriation, foreign assistance, international economic policy, diplomatic service, trading with the enemy, and measures to foster lawful commercial intercourse with foreign nations and safeguard American interests abroad.",
+      "members": [
+        "Rep. TallCloud_II",
+        "Rep. John Brutus",
+        "Rep. CustomSwisher"
+      ]
+    },
+    {
+      "id": "oversight",
+      "name": "Committee on Appropriations, Oversight, and Infrastructure",
+      "chair": "Rep. Der_PanzerFahrerr",
+      "ranking": "Vacant",
+      "jurisdiction": "The Committee on Appropriations, Oversight, and Infrastructure shall have jurisdiction over appropriations where assigned by the House, government oversight, federal civil service, the status of officers and employees of the United States, compensation, classification and retirement of federal employees, municipal affairs of the District of Columbia generally, federal paperwork reduction, government management and accounting, holidays and celebrations, economy and efficiency of government operations, federal procurement, the National Archives, public information and records, population and demography including the census, relationships between the Federal Government and states or municipalities, reorganizations in the executive branch, small business assistance and protection, labor standards and statistics, commerce and labor generally, work incentive programs, organization and administration of the Department of Commerce and Labor, federal emergency management, natural disasters, the Capitol Building, House office buildings, roads and post roads, public buildings, federal courthouses, government buildings in the District of Columbia, occupied or improved grounds of the United States, transportation regulatory agencies except the Transportation Security Administration, and road safety.",
+      "members": [
+        "Rep. theworthycitizen",
+        "Rep. CustomSwisher"
+      ]
+    },
+    {
+      "id": "rules",
+      "name": "Committee on Administration, Rules, and Ethics",
+      "chair": "Rep. John Brutus",
+      "ranking": "Vacant",
+      "jurisdiction": "The Committee on House Administration, Rules, and Ethics shall have jurisdiction over the rules, joint rules, order of business, administration, officers, employees, internal operations, official conduct, Member discipline, contested elections, credentials, qualifications, House records, House facilities, House expenses, elections of the President, Vice President, Members, and Senators where related to House authority, corrupt practices, federal elections generally, travel of Members, compensation and benefits of Members and officers, recesses and final adjournments of Congress, and any matter referred to a committee that does not clearly fall within the jurisdiction of another committee unless the Speaker directs otherwise. The Committee on House Administration, Rules, and Ethics shall have authority to review and report on the Code of Official Conduct, conflicts of interest, gifts, compensation, recusals, improper influence, abuse of office, disorderly conduct, discipline of Members, officers, and employees, and enforcement of the Standing Rules.",
+      "members": [
+        "Rep. TallCloud_II",
+        "Rep. CustomSwisher"
       ]
     }
   ]
