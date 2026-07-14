@@ -20,6 +20,18 @@
           "vote": "Yea",
           "bill": "H.R. 9 - Homeland Security Coordination Act",
           "roll": "Roll Call 1"
+        },
+        {
+          "id": "roll-call-2",
+          "roll": "Roll Call 2 ",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-3",
+          "roll": "Roll Call 3 ",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
