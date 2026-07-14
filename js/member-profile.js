@@ -95,7 +95,7 @@ ${member.committees.map(c =>
 </tr>
 
 
-${member.votes.map(v =>
+${(member.votes || []).map(v =>
 
 
 `
