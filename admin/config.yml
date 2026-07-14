@@ -87,11 +87,11 @@ collections:
             - label: "Party"
               name: "party"
               widget: "select"
-                  options:
-                    - Progressive
-                    - Reform
-                    - Juche
-                    - Independant
+              options:
+                - Progressive
+                - Reform
+                - Juche
+                - Independant
 
             - label: "Committees"
               name: "committees"
@@ -162,11 +162,11 @@ collections:
             - label: "Party"
               name: "party"
               widget: "select"
-                options:
-                    - Progressive
-                    - Reform
-                    - Juche
-                    - Independant
+              options:
+                - Progressive
+                - Reform
+                - Juche
+                - Independant
 
             - label: "Status"
               name: "status"
@@ -250,14 +250,14 @@ collections:
                   name: "name"
                   widget: "string"
 
-                - label: "Party"
-                  name: "party"
-                  widget: "select"
-                  options:
-                    - Progressive
-                    - Reform
-                    - Juche
-                    - Independant
+               - label: "Party"
+                name: "party"
+                widget: "select"
+                options:
+                  - Progressive
+                  - Reform
+                  - Juche
+                  - Independant
 
                 - label: "Vote"
                   name: "vote"
