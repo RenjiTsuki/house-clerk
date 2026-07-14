@@ -32,6 +32,12 @@ profile.innerHTML = `
 
 
 <p>
+<strong>Position:</strong>
+${member.position}
+</p>
+
+
+<p>
 <strong>Party:</strong>
 ${member.party}
 </p>
