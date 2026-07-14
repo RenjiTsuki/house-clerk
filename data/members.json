@@ -10,7 +10,7 @@
       "committees": [
         "Judicary Committee",
         "Select Committee on Homeland Security and Intelligence",
-        "Forign Affairs Committee",
+        "Foreign Affairs Committee",
         "Armed Services and Veteran Affairs Committee",
         "Adminitration Rules and Ethics Committee"
       ],
@@ -42,6 +42,64 @@
           "bill": "H.R. 9 - Homeland Security Coordination Act",
           "vote": "Yea"
         }
+      ]
+    },
+    {
+      "id": "theworthycitizen",
+      "name": "John Brutus",
+      "position": "Majority Whip",
+      "state": "Colorado",
+      "district": "2",
+      "party": "Reform",
+      "committees": [
+        "Foreign Affairs Committee",
+        "Armed Services and Veteran Affairs Committee",
+        "Appropriations Oversight and Infrastructure Committee",
+        "Administration Rules and Ethics Committee"
+      ]
+    },
+    {
+      "id": "customswisher",
+      "name": "CustomSwisher",
+      "position": "Majority Leader",
+      "state": "New Jersey",
+      "district": "10",
+      "party": "Reform",
+      "committees": [
+        "None"
+      ]
+    },
+    {
+      "id": "whyyy6",
+      "name": "WHYYY6",
+      "position": "Representative",
+      "state": "Maryland",
+      "district": "8",
+      "party": "Reform",
+      "committees": [
+        "None"
+      ]
+    },
+    {
+      "id": "jasper0938",
+      "name": "jasper0938",
+      "position": "Representative",
+      "state": "Tennessee",
+      "district": "7",
+      "party": "Reform",
+      "committees": [
+        "None"
+      ]
+    },
+    {
+      "id": "deepfriedtrout",
+      "name": "Deepfriedtrout",
+      "position": "Minority Leader",
+      "state": "Pennsylvania",
+      "district": "12",
+      "party": "American Juche",
+      "committees": [
+        "None"
       ]
     }
   ]
