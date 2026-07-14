@@ -84,9 +84,10 @@ collections:
               name: "party"
               widget: "select"
               options:
-                - Republican
-                - Democrat
+                - Progressive
+                - Reform
                 - Independent
+                - American Juche
 
             - label: "Committees"
               name: "committees"
