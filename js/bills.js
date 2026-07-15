@@ -30,13 +30,12 @@ function displayBills(list) {
 <td>${bill.status}</td>
 
 <td>
-${
-bill.document
-? `<a href="${bill.document}" target="_blank" class="button">View Bill</a>`
-: "—"
-}
-</td>
 
+<button onclick="window.open('${bill.document}', '_blank')">
+    View Document
+</button>
+
+</td>
 </tr>
 
 `;
