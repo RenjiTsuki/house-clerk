@@ -27,7 +27,14 @@
         "Rep. TallCloud_II",
         "Rep. John Brutus"
       ],
-      "jurisdiction": "The Committee on Armed Services and Veterans Affairs shall have jurisdiction over the common defense generally; the Department of Defense and the Departments of the Army, Navy, and Air Force generally; tactical intelligence and intelligence-related activities of the Department of Defense; pay, promotion, retirement, benefits, privileges, training, command, organization, equipment, readiness, discipline, and administration of members of the armed forces; selective service; size and composition of the armed forces; strategic and critical materials necessary for the common defense; veterans’ measures generally; readjustment of service members to civil life; service members’ civil relief; and such other military and veterans matters as may be referred by the Speaker or the House."
+      "jurisdiction": "The Committee on Armed Services and Veterans Affairs shall have jurisdiction over the common defense generally; the Department of Defense and the Departments of the Army, Navy, and Air Force generally; tactical intelligence and intelligence-related activities of the Department of Defense; pay, promotion, retirement, benefits, privileges, training, command, organization, equipment, readiness, discipline, and administration of members of the armed forces; selective service; size and composition of the armed forces; strategic and critical materials necessary for the common defense; veterans’ measures generally; readjustment of service members to civil life; service members’ civil relief; and such other military and veterans matters as may be referred by the Speaker or the House.",
+      "agenda": [
+        {
+          "date": "07-14-2026",
+          "title": "H.R. 13 - Reestablishing Geographical Commands Act",
+          "location": "Assigned House Committee Channel"
+        }
+      ]
     },
     {
       "id": "homeland",
