@@ -29,6 +29,8 @@ function displayBills(list) {
 
 <td>${bill.status}</td>
 
+<td>${bill.date}</td>
+
 <td>
 
 <button onclick="window.open('${bill.document}', '_blank')">
