@@ -44,6 +44,18 @@
           "roll": "Roll Call 5",
           "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-6",
+          "roll": "Roll Call 6",
+          "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -77,6 +89,30 @@
           "roll": "Roll Call 3 ",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
           "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-4",
+          "roll": "Roll Call 4",
+          "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-5",
+          "roll": "Roll Call 5",
+          "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-6",
+          "roll": "Roll Call 6",
+          "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea - Proxy"
         }
       ]
     },
@@ -92,6 +128,50 @@
         "Armed Services and Veteran Affairs Committee",
         "Appropriations Oversight and Infrastructure Committee",
         "Administration Rules and Ethics Committee"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-1",
+          "roll": "Roll Call 1",
+          "bill": "H.R. 9 - Homeland Security Coordination Act",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-2",
+          "roll": "Roll Call 2",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Not Voting"
+        },
+        {
+          "id": "roll-call-3",
+          "roll": "Roll Call 3",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-4",
+          "roll": "Roll Call 4",
+          "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-5",
+          "roll": "Roll Call 5",
+          "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-6",
+          "roll": "Roll Call 6",
+          "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Nay"
+        }
       ]
     },
     {
@@ -103,6 +183,50 @@
       "party": "Reform",
       "committees": [
         "None"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-1",
+          "roll": "Roll Call 1",
+          "bill": "H.R. 9 - Homeland Security Coordination Act",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-2",
+          "roll": "Roll Call 2",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-3",
+          "roll": "Roll Call 3",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-4",
+          "roll": "Roll Call 4",
+          "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-5",
+          "roll": "Roll Call 5",
+          "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-6",
+          "roll": "Roll Call 6",
+          "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        }
       ]
     },
     {
@@ -114,6 +238,44 @@
       "party": "Reform",
       "committees": [
         "None"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-2",
+          "roll": "Roll Call 2",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Present"
+        },
+        {
+          "id": "roll-call-3",
+          "roll": "Roll Call 3",
+          "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-4",
+          "roll": "Roll Call 4",
+          "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-5",
+          "roll": "Roll Call 5",
+          "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-6",
+          "roll": "Roll Call 6",
+          "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        }
       ]
     },
     {
@@ -136,6 +298,14 @@
       "party": "Juche",
       "committees": [
         "None"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        }
       ]
     }
   ]
