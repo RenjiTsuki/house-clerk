@@ -136,6 +136,172 @@
       "id": "roll-call-3",
       "result": "Passed",
       "roll": "Roll Call 3"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.Res. 12",
+      "bill": "H. Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+      "date": "07-12-2026",
+      "yea": 4,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. aaargoon",
+          "party": "Reform",
+          "vote": "Not Voting"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        }
+      ],
+      "notVoting": 1,
+      "present": 0,
+      "id": "roll-call-4",
+      "result": "Passed",
+      "roll": "Roll Call 4"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.J.Res. 2",
+      "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+      "date": "07-13-2026",
+      "yea": 5,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        }
+      ],
+      "notVoting": 0,
+      "present": 0,
+      "id": "roll-call-5",
+      "result": "Passed",
+      "roll": "Roll Call 5"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.Res. 15",
+      "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives.",
+      "date": "07-13-2026",
+      "yea": 5,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        }
+      ],
+      "notVoting": 0,
+      "present": 0,
+      "id": "roll-call-6",
+      "result": "Passed",
+      "roll": "Roll Call 6"
+    },
+    {
+      "nay": 1,
+      "question": "On Passage of H.Res. 16",
+      "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives.",
+      "date": "07-13-2026",
+      "yea": 5,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. deepfriedtrout",
+          "party": "Juche",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Nay"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        }
+      ],
+      "notVoting": 0,
+      "present": 0,
+      "id": "roll-call-7",
+      "result": "Passed",
+      "roll": "Roll Call 7"
     }
   ]
 }
