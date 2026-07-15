@@ -10,8 +10,8 @@ data.congress;
 
 
 document.getElementById("session").innerHTML =
-data.session + " | " + data.date;
-
+data.session + " | " + data.date;,
+data.clerk + " | " + data.speaker;
 
 });
 
