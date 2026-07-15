@@ -60,59 +60,76 @@
       ]
     },
     {
-      "id": "der-panzerfahrerr",
-      "name": "Der_PanzerFahrerr\t",
-      "position": "Representative",
-      "state": "Texas",
-      "district": "7",
+      "id": "customswisher",
+      "name": "CustomSwisher",
+      "position": "Majority Leader",
+      "state": "New Jersey",
+      "district": "10",
       "party": "Reform",
       "committees": [
-        "Judiciary Committee",
-        "Armed Services and Veteran Affairs Committee",
-        "Appropriations Oversight and Infrastructure Committee"
+        "None"
       ],
       "votes": [
         {
           "id": "roll-call-1",
           "roll": "Roll Call 1",
-          "bill": "H.Res. 9 - Appointment of WHYYY6",
+          "bill": "H.R. 9 - Homeland Security Coordination Act",
           "vote": "Yea"
         },
         {
           "id": "roll-call-2",
-          "roll": "Roll Call 2 ",
+          "roll": "Roll Call 2",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
         },
         {
           "id": "roll-call-3",
-          "roll": "Roll Call 3 ",
+          "roll": "Roll Call 3",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
         },
         {
           "id": "roll-call-4",
           "roll": "Roll Call 4",
           "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
         },
         {
           "id": "roll-call-5",
           "roll": "Roll Call 5",
           "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
         },
         {
           "id": "roll-call-6",
           "roll": "Roll Call 6",
           "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
         },
         {
           "id": "roll-call-7",
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
-          "vote": "Yea - Proxy"
+          "vote": "Yea"
+        }
+      ]
+    },
+    {
+      "id": "deepfriedtrout",
+      "name": "Deepfriedtrout",
+      "position": "Minority Leader",
+      "state": "Pennsylvania",
+      "district": "12",
+      "party": "Juche",
+      "committees": [
+        "None"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-7",
+          "roll": "Roll Call 7",
+          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -175,57 +192,59 @@
       ]
     },
     {
-      "id": "customswisher",
-      "name": "CustomSwisher",
-      "position": "Majority Leader",
-      "state": "New Jersey",
-      "district": "10",
+      "id": "der-panzerfahrerr",
+      "name": "Der_PanzerFahrerr\t",
+      "position": "Representative",
+      "state": "Texas",
+      "district": "7",
       "party": "Reform",
       "committees": [
-        "None"
+        "Judiciary Committee",
+        "Armed Services and Veteran Affairs Committee",
+        "Appropriations Oversight and Infrastructure Committee"
       ],
       "votes": [
         {
           "id": "roll-call-1",
           "roll": "Roll Call 1",
-          "bill": "H.R. 9 - Homeland Security Coordination Act",
+          "bill": "H.Res. 9 - Appointment of WHYYY6",
           "vote": "Yea"
         },
         {
           "id": "roll-call-2",
-          "roll": "Roll Call 2",
+          "roll": "Roll Call 2 ",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         },
         {
           "id": "roll-call-3",
-          "roll": "Roll Call 3",
+          "roll": "Roll Call 3 ",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         },
         {
           "id": "roll-call-4",
           "roll": "Roll Call 4",
           "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         },
         {
           "id": "roll-call-5",
           "roll": "Roll Call 5",
           "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         },
         {
           "id": "roll-call-6",
           "roll": "Roll Call 6",
           "bill": "H.Res. 15 - Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         },
         {
           "id": "roll-call-7",
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
-          "vote": "Yea"
+          "vote": "Yea - Proxy"
         }
       ]
     },
@@ -287,25 +306,6 @@
       "party": "Reform",
       "committees": [
         "None"
-      ]
-    },
-    {
-      "id": "deepfriedtrout",
-      "name": "Deepfriedtrout",
-      "position": "Minority Leader",
-      "state": "Pennsylvania",
-      "district": "12",
-      "party": "Juche",
-      "committees": [
-        "None"
-      ],
-      "votes": [
-        {
-          "id": "roll-call-7",
-          "roll": "Roll Call 7",
-          "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
-          "vote": "Yea"
-        }
       ]
     }
   ]
