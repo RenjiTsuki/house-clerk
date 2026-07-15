@@ -32,6 +32,18 @@
           "roll": "Roll Call 3 ",
           "bill": "H. Res. 11 - Expelling Representative 0dure, from the House of Representatives",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-4",
+          "roll": "Roll Call 4",
+          "bill": "H.Res. 12 - Expelling Representative aaargoon, from the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-5",
+          "roll": "Roll Call 5",
+          "bill": "H.J.Res. 2 - Proposing an amendment to the Constitution of the United States",
+          "vote": "Yea"
         }
       ]
     },
