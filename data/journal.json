@@ -1,29 +1,3 @@
 {
-  "entries": [
-    {
-      "date": "2026-03-01",
-      "day": "Monday",
-      "meeting": "The House met at 12:00 PM.",
-      "prayer": "Prayer was offered by the House Chaplain.",
-      "pledge": "The Pledge of Allegiance was recited.",
-      "business": [
-        "H.R. 101 was considered.",
-        "Committee reports were submitted.",
-        "Roll Call Vote 25 was conducted."
-      ],
-      "adjournment": "The House adjourned at 6:15 PM."
-    },
-    {
-      "date": "2026-03-03",
-      "day": "Wednesday",
-      "meeting": "The House convened at 10:00 AM.",
-      "prayer": "Prayer was offered by the House Chaplain.",
-      "pledge": "The Pledge of Allegiance was recited.",
-      "business": [
-        "H.Res. 55 was adopted.",
-        "New legislation was introduced."
-      ],
-      "adjournment": "The House adjourned at 5:30 PM."
-    }
-  ]
+  "entries": []
 }
