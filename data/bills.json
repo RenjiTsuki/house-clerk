@@ -1,24 +1,194 @@
 {
   "bills": [
     {
-      "number": "H.R. 1",
-      "title": "United States Capitol Police Reform and Accountability Act",
+      "number": "H.Res. 20",
+      "title": "To assign Reform Committee Assignments",
+      "sponsor": "Rep. CustomSwisher",
+      "party": "Reform",
+      "status": "Pending House Decision",
+      "committee": "None; Referred to House Floor",
+      "date": "07-14-2026",
+      "document": "https://drive.google.com/file/d/1aeEsjGbmAmXKYHYNzRHpqB3tyvsPnsEQ/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 13",
+      "title": "Reestablishing Geographical Commands Act",
+      "sponsor": "Deepfriedtrout",
+      "party": "Juche",
+      "status": "Awaiting House Committee",
+      "committee": "Committee on Armed Forces and Veterans Affairs",
+      "date": "07-14-2026",
+      "document": "https://drive.google.com/file/d/1e8pKDjNYBFl2GNLjQ7Aa9eai9mPJs8Tn/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 19",
+      "title": "Juche Committee Assignments",
+      "sponsor": "Rep. Deepfriedtrout",
+      "party": "Juche",
+      "status": "Pending House Decision",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1CqeWj4FKIB9cM1Lhve3oSfAocyhUodwT/view?usp=sharing"
+    },
+    {
+      "number": "H.J.Res. 3",
+      "title": "Passing H.R. 6, the Congressional Dueling Restoration Act of 2026, notwithstanding",
       "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
       "status": "Failed Senate",
-      "committee": "Committee on Administration, Rules and Ethics",
-      "date": "06-27-2026",
-      "document": "https://drive.google.com/file/d/1SOPGF2-xUUK-lZs8BV39TRNru3tbsyoA/view?usp=sharing"
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1oqaw1nAV0Dm5ZeUUr0SxrBpkeP5R_3XC/view?usp=sharing"
     },
     {
-      "number": "H.R. 2",
-      "title": "Metropolitan Police Department Public Safety and Property Reform Act",
+      "number": "H.Res. 18",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
       "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
-      "status": "Signed Into Law",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1s-AhIK8s5FmHknthsNRsFogvalex4nh3/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 17",
+      "title": "To adopt and enact Standing Rules for the House of Representative",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1dZa45zfRMlMj12c_IhHxaUJ50I8CMOuE/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 16",
+      "title": "Appointing jasper0938 to the vacant seat in the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1i6I8w0bRSSgl-NhXgJntx9M-RdlxR54D/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 15",
+      "title": "Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1MYhk5BfZt1EkbNXohHlODwOHtBYIvyW0/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 14",
+      "title": "Declaring John Brutus, the current House Majority Whip, to be the Grandpa of the House",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-13-2026",
+      "document": "https://drive.google.com/file/d/1V91-csNOFjrYH7oI7PUrXbqyUCwQPnzw/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 13",
+      "title": "Appointing the Clerk of the House of Representatives",
+      "sponsor": "Rep. CustomSwisher",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026",
+      "document": "https://drive.google.com/file/d/1pLfW-fET0HypUbc3wGwWXh6_gVGFUDps/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 12",
+      "title": "Expelling Representative aaargoon, from the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026",
+      "document": "https://drive.google.com/file/d/1q0YzfZWR0hroQ_vOdiTrE_xVPrvi_QCi/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 11",
+      "title": "Expelling Representative 0dure, from the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026",
+      "document": "https://drive.google.com/file/d/1MojCeTD470R7BdFOoDJtclr4MR1cmyOj/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 10",
+      "title": "To adopt and enact Standing Rules for the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026",
+      "document": "https://drive.google.com/file/d/11MSmNdbyvF6AiVw9nZMRz_RTYfwsfSnP/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 9",
+      "title": "Appointment of WHYYY6",
+      "sponsor": "Rep. b_rownphosphorus",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-12-2026",
+      "document": "https://drive.google.com/file/d/1rkEOn0P9S7EfDuTnDo7pjt0BM30Ulskx/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 8",
+      "title": "Expelling Representative zeusposidonhades123q, from the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Withdrawn",
+      "committee": "Committee on Administration Rules and Ethics",
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/1t1r7s7RxjlX8iXfyjoKGJT3GtfTWtEbJ/view?usp=sharing"
+    },
+    {
+      "number": "H.J.Res. 2",
+      "title": "Proposing an amendment to the Constitution of the United States",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Pending Referendum",
+      "committee": "Committee on the Judiciary",
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/1XAI9Bn_-eRhkSew8-WZGUgqUd7uTf9xf/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 12",
+      "title": "Condification Reform Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awaiting Senate Committee",
+      "committee": "Committee on the Judiciary",
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/1fWBXc5ACDM6eYVTbSSC7Fb2gbD_rktmt/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 11",
+      "title": "National Peanut Day Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Failed Senate",
+      "committee": "None; Referred to House Floor",
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/1FISsoLUkIDP86ArW2FJntcbY23d6zGKe/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 10",
+      "title": "District of Columbia Fire and Emergency Medical Services Cleanup Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awaiting Senate Committee",
       "committee": "Select Committee on Homeland Security and Intelligence",
-      "date": "06-29-2026",
-      "document": "https://drive.google.com/file/d/1R7KhB-e7PiHUE4wOvpqXe9cg7XGU-LTH/view?usp=sharing"
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/1xCjuOSriPVWaTZkdnpdwV0zrHW-uRY1N/view"
     },
     {
       "number": "H.R. 9",
@@ -31,44 +201,114 @@
       "document": "https://drive.google.com/file/d/1e0XQDHjDGqi_EcYHl7QmPPovdWNmotZf/view?usp=sharing"
     },
     {
-      "number": "H.Res. 1",
-      "title": "Appointment of theworthycitizen",
-      "sponsor": "Rep. b_rownphosphorus",
+      "number": "H.R. 8",
+      "title": "Federal Open Records Act",
+      "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "06-23-2026",
-      "document": "https://drive.google.com/file/d/1yD64bb7uCKqvomoyTQ2hBQ7POG4A-FMz/view?usp=sharing"
+      "status": "Awaiting Senate Committee",
+      "committee": "Committee on Appropriations Oversight and Infrastructure",
+      "date": "07-09-2026",
+      "document": "https://drive.google.com/file/d/12lf1n9GNYfOUmiI6XdQX-dGJRVlQd-nf/view"
     },
     {
-      "number": "H.Res. 2",
-      "title": "Appointment of TallCloud_II",
-      "sponsor": "Rep. b_rownphosphorus",
+      "number": "H.Res. 7",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
+      "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
       "status": "Passed",
       "committee": "None; Referred to House Floor",
-      "date": "06-23-2026",
-      "document": "https://drive.google.com/file/d/1TFvwndsY1yf_jEdYoZf88mrxosuLv6vX/view?usp=sharing"
+      "date": "07-06-2026",
+      "document": "https://drive.google.com/file/d/154QMgzSwfA0whM0b9kItEgLI3xhqQCxZ/view?usp=sharing"
     },
     {
-      "number": "H.Res. 3",
-      "title": "Appointment of CustomSwisher",
-      "sponsor": "b_rownphosphorus",
+      "number": "H.J.Res. 1 ",
+      "title": "Vice Presidential Eligibility amendment of 2026",
+      "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
       "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "06-23-2026",
-      "document": "https://drive.google.com/file/d/1-gQqLlVCBZ0RlW1pGO1pedDdgaRl4p-i/view?usp=sharing"
+      "committee": "Committee on the Judiciary",
+      "date": "07-06-2026",
+      "document": "https://drive.google.com/file/d/1oP7wFydBfqKi5VRq-mrc_6GAPLFGBPTv/view?usp=sharing"
     },
     {
-      "number": "H.Res. 4",
-      "title": "Appointment of aaargoon",
-      "sponsor": "Rep. b_rownphosphorus",
+      "number": "H.R. 7",
+      "title": "Inspector General Reform Act",
+      "sponsor": "Rep. TallCloud_II",
       "party": "Reform",
-      "status": "Passed",
+      "status": "Awaiting President",
+      "committee": "Committee on Appropriations Oversight and Infrastructure",
+      "date": "07-06-2026",
+      "document": "https://drive.google.com/file/d/1mUKhcBVz6yTP4-KNhXr9d5io5SRuqgCE/view"
+    },
+    {
+      "number": "H.R. 6",
+      "title": "Congressional Dueling Restoration Act of 2026",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Presidential Veto",
+      "committee": "Committee on the Judiciary",
+      "date": "07-05-2026",
+      "document": "https://drive.google.com/file/d/1oRgFo_h9XqmcFdptwDBGtkyH9BiZ-VFJ/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 5",
+      "title": "United States Capitol Police Reform and Accountability Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awaiting President",
+      "committee": "Committee on Adminitration Rules and Ethics",
+      "date": "07-02-2026",
+      "document": "https://drive.google.com/file/d/1CW4BB4JMIts-14EteElKmV0Hh5idsEY1/view?usp=sharing"
+    },
+    {
+      "title": "Federal Offices Compatibility and Intergrity Act",
+      "number": "H.R. 4",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awaiting President",
+      "committee": "Committee on Appropriations Oversight and Infrastructure",
+      "date": "07-02-2026",
+      "document": "https://drive.google.com/file/d/1LymEvmzW8ho9rwmYyCeHpzzKI1IiPKua/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 3",
+      "title": "warcr_ime Files Disclosure Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Tabled in Senate",
       "committee": "None; Referred to House Floor",
-      "date": "06-23-2026",
-      "document": "https://drive.google.com/file/d/1uCWErO-dCMX3xU05yNGQ0vGcDJJ5xAWF/view?usp=sharing"
+      "date": "07-01-2026",
+      "document": "https://drive.google.com/file/d/1HvuOltK8p_dddECwk9cOTYYWGSNSFRC0/view"
+    },
+    {
+      "number": "H.R. 2",
+      "title": "Metropolitan Police Department Public Safety and Property Reform Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Signed Into Law",
+      "committee": "Select Committee on Homeland Security and Intelligence",
+      "date": "06-29-2026",
+      "document": "https://drive.google.com/file/d/1R7KhB-e7PiHUE4wOvpqXe9cg7XGU-LTH/view?usp=sharing"
+    },
+    {
+      "number": "H.R. 1",
+      "title": "United States Capitol Police Reform and Accountability Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Failed Senate",
+      "committee": "Committee on Administration, Rules and Ethics",
+      "date": "06-27-2026",
+      "document": "https://drive.google.com/file/d/1SOPGF2-xUUK-lZs8BV39TRNru3tbsyoA/view?usp=sharing"
+    },
+    {
+      "number": "H.Con.Res. 1",
+      "title": "Establishing a Joint Committee on Constitutional Convention Review",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Failed Senate",
+      "committee": "None; Referred to House Floor",
+      "date": "06-25-2026",
+      "document": "https://drive.google.com/file/d/1EBH9Q0qm5DrdmkbIRwQjoLPPnwmSDAZf/view?usp=sharing"
     },
     {
       "number": "H.Res. 5",
@@ -91,264 +331,44 @@
       "document": "https://docs.google.com/document/d/1a2OyTBzMKytifHpkhD1o-uTn-3J-9i4cs-sjoeK3g20/edit?usp=sharing"
     },
     {
-      "number": "H.Res. 7",
-      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-06-2026",
-      "document": "https://drive.google.com/file/d/154QMgzSwfA0whM0b9kItEgLI3xhqQCxZ/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 8",
-      "title": "Expelling Representative zeusposidonhades123q, from the House of Representatives",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Withdrawn",
-      "committee": "Committee on Administration Rules and Ethics",
-      "date": "07-09-2026",
-      "document": "https://drive.google.com/file/d/1t1r7s7RxjlX8iXfyjoKGJT3GtfTWtEbJ/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 9",
-      "title": "Appointment of WHYYY6",
+      "number": "H.Res. 4",
+      "title": "Appointment of aaargoon",
       "sponsor": "Rep. b_rownphosphorus",
       "party": "Reform",
       "status": "Passed",
       "committee": "None; Referred to House Floor",
-      "date": "07-12-2026",
-      "document": "https://drive.google.com/file/d/1rkEOn0P9S7EfDuTnDo7pjt0BM30Ulskx/view?usp=sharing"
+      "date": "06-23-2026",
+      "document": "https://drive.google.com/file/d/1uCWErO-dCMX3xU05yNGQ0vGcDJJ5xAWF/view?usp=sharing"
     },
     {
-      "number": "H.Res. 10",
-      "title": "To adopt and enact Standing Rules for the House of Representatives",
-      "sponsor": "TallCloud_II",
+      "number": "H.Res. 3",
+      "title": "Appointment of CustomSwisher",
+      "sponsor": "Rep. b_rownphosphorus",
       "party": "Reform",
       "status": "Passed",
       "committee": "None; Referred to House Floor",
-      "date": "07-12-2026",
-      "document": "https://drive.google.com/file/d/11MSmNdbyvF6AiVw9nZMRz_RTYfwsfSnP/view?usp=sharing"
+      "date": "06-23-2026",
+      "document": "https://drive.google.com/file/d/1-gQqLlVCBZ0RlW1pGO1pedDdgaRl4p-i/view?usp=sharing"
     },
     {
-      "number": "H.Res. 11",
-      "title": "Expelling Representative 0dure, from the House of Representatives",
-      "sponsor": "TallCloud_II",
+      "number": "H.Res. 2",
+      "title": "Appointment of TallCloud_II",
+      "sponsor": "Rep. b_rownphosphorus",
       "party": "Reform",
       "status": "Passed",
       "committee": "None; Referred to House Floor",
-      "date": "07-12-2026",
-      "document": "https://drive.google.com/file/d/1MojCeTD470R7BdFOoDJtclr4MR1cmyOj/view?usp=sharing"
+      "date": "06-23-2026",
+      "document": "https://drive.google.com/file/d/1TFvwndsY1yf_jEdYoZf88mrxosuLv6vX/view?usp=sharing"
     },
     {
-      "number": "H.Res. 12",
-      "title": "Expelling Representative aaargoon, from the House of Representatives",
-      "sponsor": "Rep. TallCloud_II",
+      "number": "H.Res. 1",
+      "title": "Appointment of theworthycitizen",
+      "sponsor": "Rep. b_rownphosphorus",
       "party": "Reform",
       "status": "Passed",
       "committee": "None; Referred to House Floor",
-      "date": "07-12-2026",
-      "document": "https://drive.google.com/file/d/1q0YzfZWR0hroQ_vOdiTrE_xVPrvi_QCi/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 13",
-      "title": "Appointing the Clerk of the House of Representatives",
-      "sponsor": "Rep. CustomSwisher",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-12-2026",
-      "document": "https://drive.google.com/file/d/1pLfW-fET0HypUbc3wGwWXh6_gVGFUDps/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 14",
-      "title": "Declaring John Brutus, the current House Majority Whip, to be the Grandpa of the House",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1V91-csNOFjrYH7oI7PUrXbqyUCwQPnzw/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 15",
-      "title": "Appointing Deepfriedtrout to the vacant seat in the House of Representatives",
-      "sponsor": "TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1MYhk5BfZt1EkbNXohHlODwOHtBYIvyW0/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 16",
-      "title": "Appointing jasper0938 to the vacant seat in the House of Representatives",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1i6I8w0bRSSgl-NhXgJntx9M-RdlxR54D/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 17",
-      "title": "To adopt and enact Standing Rules for the House of Representative",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1dZa45zfRMlMj12c_IhHxaUJ50I8CMOuE/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 18",
-      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1s-AhIK8s5FmHknthsNRsFogvalex4nh3/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 19",
-      "title": "Juche Committee Assignments",
-      "sponsor": "Rep. Deepfriedtrout",
-      "party": "Juche",
-      "status": "Pending House Decision",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1CqeWj4FKIB9cM1Lhve3oSfAocyhUodwT/view?usp=sharing"
-    },
-    {
-      "number": "H.Res. 20",
-      "title": "To assign Reform Committee Assignments",
-      "sponsor": "Rep. CustomSwisher",
-      "party": "Reform",
-      "status": "Pending House Decision",
-      "committee": "None; Referred to House Floor",
-      "date": "07-14-2026",
-      "document": "https://drive.google.com/file/d/1aeEsjGbmAmXKYHYNzRHpqB3tyvsPnsEQ/view?usp=sharing"
-    },
-    {
-      "number": "H.J.Res. 1 ",
-      "title": "Vice Presidential Eligibility amendment of 2026",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Passed",
-      "committee": "Committee on the Judiciary",
-      "date": "07-06-2026",
-      "document": "https://drive.google.com/file/d/1oP7wFydBfqKi5VRq-mrc_6GAPLFGBPTv/view?usp=sharing"
-    },
-    {
-      "number": "H.J.Res. 2",
-      "title": "Proposing an amendment to the Constitution of the United States",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Pending Referendum",
-      "committee": "Committee on the Judiciary",
-      "date": "07-09-2026",
-      "document": "https://drive.google.com/file/d/1XAI9Bn_-eRhkSew8-WZGUgqUd7uTf9xf/view?usp=sharing"
-    },
-    {
-      "number": "H.J.Res. 3",
-      "title": "Passing H.R. 6, the Congressional Dueling Restoration Act of 2026, notwithstanding",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Failed Senate",
-      "committee": "None; Referred to House Floor",
-      "date": "07-13-2026",
-      "document": "https://drive.google.com/file/d/1oqaw1nAV0Dm5ZeUUr0SxrBpkeP5R_3XC/view?usp=sharing"
-    },
-    {
-      "number": "H.R. 3",
-      "title": "warcr_ime Files Disclosure Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Tabled in Senate",
-      "committee": "None; Referred to House Floor",
-      "date": "07-01-2026",
-      "document": "https://drive.google.com/file/d/1HvuOltK8p_dddECwk9cOTYYWGSNSFRC0/view"
-    },
-    {
-      "title": "Federal Offices Compatibility and Intergrity Act",
-      "number": "H.R. 4",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting President",
-      "committee": "Committee on Appropriations Oversight and Infrastructure",
-      "date": "07-01-2026",
-      "document": "https://drive.google.com/file/d/1LymEvmzW8ho9rwmYyCeHpzzKI1IiPKua/view?usp=sharing"
-    },
-    {
-      "number": "H.R. 5",
-      "title": "United States Capitol Police Reform and Accountability Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting President",
-      "committee": "Committee on Adminitration Rules and Ethics",
-      "date": "07-02-2026",
-      "document": "https://drive.google.com/file/d/1CW4BB4JMIts-14EteElKmV0Hh5idsEY1/view?usp=sharing"
-    },
-    {
-      "number": "H.R. 6",
-      "title": "Congressional Dueling Restoration Act of 2026",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Presidential Veto",
-      "committee": "Committee on the Judiciary",
-      "date": "07-05-2026",
-      "document": "https://drive.google.com/file/d/1oRgFo_h9XqmcFdptwDBGtkyH9BiZ-VFJ/view?usp=sharing"
-    },
-    {
-      "number": "H.R. 7",
-      "title": "Inspector General Reform Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting President",
-      "committee": "Committee on Appropriations Oversight and Infrastructure",
-      "date": "07-06-2026",
-      "document": "https://drive.google.com/file/d/1mUKhcBVz6yTP4-KNhXr9d5io5SRuqgCE/view"
-    },
-    {
-      "number": "H.R. 8",
-      "title": "Federal Open Records Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting Senate Committee",
-      "committee": "Committee on Appropriations Oversight and Infrastructure",
-      "date": "07-09-2026",
-      "document": "https://drive.google.com/file/d/12lf1n9GNYfOUmiI6XdQX-dGJRVlQd-nf/view"
-    },
-    {
-      "number": "H.R. 10",
-      "title": "District of Columbia Fire and Emergency Medical Services Cleanup Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting Senate Committee",
-      "committee": "Select Committee on Homeland Security and Intelligence",
-      "date": "07-09-2026",
-      "document": "https://drive.google.com/file/d/1xCjuOSriPVWaTZkdnpdwV0zrHW-uRY1N/view"
-    },
-    {
-      "number": "H.R. 12",
-      "title": "Condification Reform Act",
-      "sponsor": "Rep. TallCloud_II",
-      "party": "Reform",
-      "status": "Awaiting Senate Committee",
-      "committee": "Committee on the Judiciary",
-      "date": "07-09-2026",
-      "document": "https://drive.google.com/file/d/1fWBXc5ACDM6eYVTbSSC7Fb2gbD_rktmt/view?usp=sharing"
-    },
-    {
-      "number": "H.R. 13",
-      "title": "Reestablishing Geographical Commands Act",
-      "sponsor": "Deepfriedtrout",
-      "party": "Juche",
-      "status": "Awaiting House Committee",
-      "committee": "Committee on Armed Forces and Veterans Affairs",
-      "date": "07-14-2026",
-      "document": "https://drive.google.com/file/d/1e8pKDjNYBFl2GNLjQ7Aa9eai9mPJs8Tn/view?usp=sharing"
+      "date": "06-23-2026",
+      "document": "https://drive.google.com/file/d/1yD64bb7uCKqvomoyTQ2hBQ7POG4A-FMz/view?usp=sharing"
     }
   ]
 }
