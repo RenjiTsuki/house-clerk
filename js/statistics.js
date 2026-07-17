@@ -17,13 +17,13 @@ data.members;
 
 document.getElementById("party").innerHTML =
 
-"Republican: " + data.republicans +
+"Reform: " + data.reformers +
 "<br>" +
 
-"Democrat: " + data.democrats +
+"Progressive: " + data.progressives +
 "<br>" +
 
-"Independent: " + data.independent;
+"Farmer-Labor: " + data.farmerlabor;
 
 
 
