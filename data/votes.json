@@ -302,6 +302,104 @@
       "id": "roll-call-7",
       "result": "Passed",
       "roll": "Roll Call 7"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.Res. 21",
+      "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+      "date": "07-16-2026",
+      "yea": 6,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. deepfriedtrout",
+          "party": "Juche",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. jasper0938",
+          "party": "Reform",
+          "vote": "Not Voting"
+        }
+      ],
+      "notVoting": 1,
+      "present": 0,
+      "id": "roll-call-8",
+      "result": "Passed",
+      "roll": "Roll Call 8"
+    },
+    {
+      "nay": 0,
+      "question": "On Passage of H.Res. 22",
+      "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+      "date": "07-16-2026",
+      "yea": 6,
+      "members": [
+        {
+          "name": "Rep. TallCloud_II",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. CustomSwisher",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. deepfriedtrout",
+          "party": "Juche",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "name": "Rep. Der_PanzerFahrerr",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. theworthycitizen",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. WHYYY6",
+          "party": "Reform",
+          "vote": "Yea"
+        },
+        {
+          "name": "Rep. jasper0938",
+          "party": "Reform",
+          "vote": "Not Voting"
+        }
+      ],
+      "notVoting": 1,
+      "present": 0,
+      "id": "roll-call-9",
+      "result": "Passed",
+      "roll": "Roll Call 9"
     }
   ]
 }
