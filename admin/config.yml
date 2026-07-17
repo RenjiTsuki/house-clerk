@@ -90,7 +90,7 @@ collections:
               options:
                 - Progressive
                 - Reform
-                - Juche
+                - Farmer-Labor
                 - Independant
 
             - label: "Committees"
@@ -165,7 +165,7 @@ collections:
               options:
                 - Progressive
                 - Reform
-                - Juche
+                - Farmer-Labor
                 - Independant
 
             - label: "Status"
@@ -259,7 +259,7 @@ collections:
                   options:
                     - Progressive
                     - Reform
-                    - Juche
+                    - Farmer-Labor
                     - Independent
 
                 - label: "Vote"
@@ -559,8 +559,8 @@ collections:
           name: "independent"
           widget: "number"
 
-        - label: "Juche"
-          name: "juche"
+        - label: "Farmer-Labor"
+          name: "farmerlabor"
           widget: "number"
 
         - label: "Vacancies"
