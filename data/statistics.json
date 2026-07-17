@@ -1,12 +1,12 @@
 {
-  "progressives": 5,
-  "reformers": 6,
+  "progressives": 0,
+  "reformers": 7,
   "billsIntroduced": 37,
   "committees": 6,
   "congress": "42nd Congress",
-  "members": 7,
-  "vacancies": 6,
+  "members": 9,
+  "vacancies": 5,
   "farmerlabor": 2,
   "billsPassed": 33,
-  "votesHeld": 7
+  "votesHeld": 9
 }
