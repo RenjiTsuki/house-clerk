@@ -56,6 +56,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -111,6 +123,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -130,6 +154,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea - Proxy"
         }
       ]
     },
@@ -188,6 +224,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Nay"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -245,6 +293,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Yea - Proxy"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -294,6 +354,18 @@
           "roll": "Roll Call 7",
           "bill": "H.Res. 16 - Appointing jasper0938 to the vacant seat in the House of Representatives",
           "vote": "Yea"
+        },
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
         }
       ]
     },
@@ -306,6 +378,20 @@
       "party": "Reform",
       "committees": [
         "None"
+      ],
+      "votes": [
+        {
+          "id": "roll-call-8",
+          "roll": "Roll Call 8",
+          "bill": "H.Res. 21 - Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        },
+        {
+          "id": "roll-call-9",
+          "roll": "Roll Call 9",
+          "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
+          "vote": "Yea"
+        }
       ]
     }
   ]
