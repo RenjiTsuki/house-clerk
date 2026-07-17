@@ -1,3 +1,19 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "date": "07-16-2026",
+      "day": "Thursday",
+      "meeting": "The House met at 8:00PM EST.",
+      "prayer": "Prayer was waived by the House.",
+      "pledge": "The Pledge of Allegiance was recited.",
+      "business": [
+        "H.Res. 19",
+        "H.Res. 20",
+        "H.Res. 21",
+        "H.Res. 22",
+        "Speaches from the Speaker and Maj Ldr"
+      ],
+      "adjournment": "The House adjourned at 6:30PM EST."
+    }
+  ]
 }
