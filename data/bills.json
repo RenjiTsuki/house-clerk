@@ -1,6 +1,26 @@
 {
   "bills": [
     {
+      "number": "H.Res. 22",
+      "title": "Appointing Venom_Saint to the vacant seat in the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-16-2026",
+      "document": "https://drive.google.com/file/d/14_U7AxiDz_WpwVLJnFuqLMK-9HmM9WT4/view?usp=sharing"
+    },
+    {
+      "number": "H.Res. 21",
+      "title": "Appointing BravoAlpha34 to the vacant seat in the House of Representatives",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Passed",
+      "committee": "None; Referred to House Floor",
+      "date": "07-16-2026",
+      "document": "https://drive.google.com/file/d/1ZxwJOv13h7z3rdKzGrfgKrY8omFTyB0Q/view"
+    },
+    {
       "number": "H.Res. 20",
       "title": "To assign Reform Committee Assignments",
       "sponsor": "Rep. CustomSwisher",
