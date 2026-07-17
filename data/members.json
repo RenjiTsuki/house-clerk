@@ -393,6 +393,28 @@
           "vote": "Yea"
         }
       ]
+    },
+    {
+      "id": "bravo-64",
+      "name": "BravoAlpha34",
+      "position": "Representative",
+      "state": "Alabama",
+      "district": "24",
+      "party": "Reform",
+      "committees": [
+        "None"
+      ]
+    },
+    {
+      "id": "venom-sain",
+      "name": "Venom_saint",
+      "position": "Representative",
+      "state": "Texas",
+      "district": "24",
+      "party": "Reform",
+      "committees": [
+        "None"
+      ]
     }
   ]
 }
