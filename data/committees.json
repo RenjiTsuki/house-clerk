@@ -4,11 +4,12 @@
       "id": "armed-services",
       "name": "Committee on Armed Services and Veteran Affairs",
       "chair": "Rep. WHYYY6",
-      "ranking": "Rep. Deepfriedtrout",
+      "ranking": "Rep. BravoAlpha34",
       "members": [
         "Rep. Der_PanzerFahrerr",
         "Rep. jasper0938",
-        "Rep. theworthycitizen"
+        "Rep. theworthycitizen",
+        "Rep. Deepfriedtrout"
       ],
       "jurisdiction": "The Committee on Armed Services and Veterans Affairs shall have jurisdiction over the common defense generally; the Department of Defense and the Departments of the Army, Navy, and Air Force generally; tactical intelligence and intelligence-related activities of the Department of Defense; pay, promotion, retirement, benefits, privileges, training, command, organization, equipment, readiness, discipline, and administration of members of the armed forces; selective service; size and composition of the armed forces; strategic and critical materials necessary for the common defense; veterans’ measures generally; readjustment of service members to civil life; service members’ civil relief; and such other military and veterans matters as may be referred by the Speaker or the House.",
       "agenda": [
@@ -28,19 +29,21 @@
       "members": [
         "Rep. jasper0938",
         "Rep. TallCloud_II",
-        "Rep. CustomSwisher"
+        "Rep. CustomSwisher",
+        "Rep. BravoAlpha34"
       ]
     },
     {
       "id": "foreign-affairs",
       "name": "Committee on Foreign Affairs",
       "chair": "Rep. Der_PanzerFahrerr",
-      "ranking": "Rep. Deepfriedtrout",
+      "ranking": "Rep. BravoAlpha34",
       "jurisdiction": "The Committee on Foreign Affairs shall have jurisdiction over relations of the United States with foreign nations generally; treaties, agreements, diplomatic relations, foreign ministers, international conferences, international organizations, intervention abroad, declarations of war, neutrality, protection of American citizens abroad, expatriation, foreign assistance, international economic policy, diplomatic service, trading with the enemy, and measures to foster lawful commercial intercourse with foreign nations and safeguard American interests abroad.",
       "members": [
         "Rep. theworthycitizen",
         "Rep. CustomSwisher",
-        "Rep. jasper0938"
+        "Rep. jasper0938",
+        "Rep. Deepfriedtrout"
       ]
     },
     {
@@ -52,7 +55,8 @@
       "members": [
         "Rep. CustomSwisher",
         "Rep. Der_PanzerFahrerr",
-        "Rep. WHYYY6"
+        "Rep. WHYYY6",
+        "Rep. BravoAlpha34"
       ],
       "agenda": [
         {
@@ -71,7 +75,8 @@
       "members": [
         "Rep. WHYYY6",
         "Rep. theworthycitizen",
-        "Rep. TallCloud_II"
+        "Rep. TallCloud_II",
+        "Rep. BravoAlpha34"
       ],
       "id": "judiciary",
       "reports": [
@@ -90,7 +95,8 @@
       "members": [
         "Rep. TallCloud_II",
         "Rep. WHYYY6",
-        "Rep. Der_PanzerFahererr"
+        "Rep. Der_PanzerFahererr",
+        "Rep. BravoAlpha34"
       ]
     }
   ]
