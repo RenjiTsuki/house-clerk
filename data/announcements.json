@@ -1,6 +1,13 @@
 {
   "announcements": [
     {
+      "id": "notice-002",
+      "date": "07-20-2026",
+      "title": "House Session",
+      "priority": "Normal",
+      "description": "The House will Come to Order at 8:00PM EST for a Regular Session.\n- Speaker TallCloud_II"
+    },
+    {
       "id": "notice-001",
       "date": "07-14-2026",
       "title": "Creation of the Clerks Site",
