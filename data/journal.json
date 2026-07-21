@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "date": "07-20-2026",
+      "day": "Monday",
+      "meeting": "The House met at 8:07PM EST.",
+      "prayer": "Prayer was waived by the House.",
+      "pledge": "The Pledge of Allegiance was recited.",
+      "adjournment": "The House adjourned at 8:13PM EST.",
+      "business": [
+        "H.R. 14",
+        "H.Res. 23"
+      ]
+    },
+    {
       "date": "07-16-2026",
       "day": "Thursday",
       "meeting": "The House met at 8:00PM EST.",
