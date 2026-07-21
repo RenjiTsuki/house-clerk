@@ -1,6 +1,16 @@
 {
   "bills": [
     {
+      "number": "H.R. 15",
+      "title": "United States Capitol Police Reform and Accountability Act",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Awaiting Committee",
+      "committee": "Committee on Administration, Rules, and Ethics",
+      "date": "07-20-2026",
+      "document": "https://drive.google.com/file/d/1M4lhdILrEA2aI3eO4eHxDafCDifDbOfS/view"
+    },
+    {
       "number": "H.Res. 23",
       "title": "Farmer-Labor Party Committee Assignments",
       "sponsor": "Rep. Deepfriedtrout",
