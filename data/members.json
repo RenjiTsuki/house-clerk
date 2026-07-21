@@ -240,6 +240,17 @@
       ]
     },
     {
+      "id": "bravo-64",
+      "name": "BravoAlpha34",
+      "position": "Minority Whip",
+      "state": "Alabama",
+      "district": "24",
+      "party": "Farmer-Labor",
+      "committees": [
+        "None"
+      ]
+    },
+    {
       "id": "der-panzerfahrerr",
       "name": "Der_PanzerFahrerr\t",
       "position": "Representative",
@@ -392,17 +403,6 @@
           "bill": "H.Res. 22 - Appointing Venom_saint to the vacant seat in the House of Representatives",
           "vote": "Yea"
         }
-      ]
-    },
-    {
-      "id": "bravo-64",
-      "name": "BravoAlpha34",
-      "position": "Representative",
-      "state": "Alabama",
-      "district": "24",
-      "party": "Farmer-Labor",
-      "committees": [
-        "None"
       ]
     },
     {
