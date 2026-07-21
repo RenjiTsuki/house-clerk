@@ -8,11 +8,10 @@
       "district": "2",
       "party": "Reform",
       "committees": [
-        "Judicary Committee",
+        "Appropriations Oversight and Infrastructure Committee",
         "Select Committee on Homeland Security and Intelligence",
-        "Foreign Affairs Committee",
-        "Armed Services and Veteran Affairs Committee",
-        "Adminitration Rules and Ethics Committee"
+        "Judiciary Committee",
+        "Rules Administration and Ethics Committee"
       ],
       "votes": [
         {
@@ -79,7 +78,10 @@
       "district": "10",
       "party": "Reform",
       "committees": [
-        "None"
+        "Appropriations Oversight and Infrastructure Committee",
+        "Foreign Affairs Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Judiciary Committee"
       ],
       "votes": [
         {
@@ -146,7 +148,12 @@
       "district": "12",
       "party": "Farmer-Labor",
       "committees": [
-        "None"
+        "Armed Services and Veteran Affairs Committee",
+        "Appropriations Oversight and Infrastructure Committee",
+        "Foreign Affairs Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Judiciary Committee",
+        "Rules Administration and Ethics Committee"
       ],
       "votes": [
         {
@@ -177,10 +184,10 @@
       "district": "2",
       "party": "Reform",
       "committees": [
-        "Foreign Affairs Committee",
         "Armed Services and Veteran Affairs Committee",
         "Appropriations Oversight and Infrastructure Committee",
-        "Administration Rules and Ethics Committee"
+        "Foreign Affairs Committee",
+        "Judiciary Committee"
       ],
       "votes": [
         {
@@ -247,7 +254,12 @@
       "district": "24",
       "party": "Farmer-Labor",
       "committees": [
-        "None"
+        "Armed Services and Veteran Affairs Committee",
+        "Appropriations Oversight and Infrastructure Committee",
+        "Foreign Affairs Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Judiciary Committee",
+        "Rules Administration and Ethics Committee"
       ]
     },
     {
@@ -258,9 +270,10 @@
       "district": "7",
       "party": "Reform",
       "committees": [
-        "Judiciary Committee",
         "Armed Services and Veteran Affairs Committee",
-        "Appropriations Oversight and Infrastructure Committee"
+        "Foreign Affairs Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Rules Administration and Ethics Committee"
       ],
       "votes": [
         {
@@ -327,7 +340,10 @@
       "district": "8",
       "party": "Reform",
       "committees": [
-        "None"
+        "Armed Services and Veteran Affairs Committee",
+        "Select Committee on Homeland Security and Intelligence",
+        "Judiciary Committee",
+        "Rules Administration and Ethics Committee"
       ],
       "votes": [
         {
