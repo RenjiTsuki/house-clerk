@@ -27,6 +27,8 @@ function displayBills(list) {
 
 <td>${bill.sponsor}</td>
 
+<td>${bill.party}</th>
+
 <td>${bill.status}</td>
 
 <td>${bill.date}</td>
