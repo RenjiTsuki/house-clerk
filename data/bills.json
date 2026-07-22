@@ -1,6 +1,16 @@
 {
   "bills": [
     {
+      "number": "H.Res. 24",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
+      "sponsor": "Rep. Deepfriedtrout",
+      "party": "Farmer-Labor",
+      "status": "Pending House Decision",
+      "committee": "None; Referred to House Floor",
+      "date": "07-21-2026",
+      "document": "https://drive.google.com/file/d/11DSwxqfHIIEgxQzFMKik5ULlR36EnLkv/view?usp=sharing"
+    },
+    {
       "number": "H.R. 15",
       "title": "United States Capitol Police Reform and Accountability Act",
       "sponsor": "Rep. TallCloud_II",
