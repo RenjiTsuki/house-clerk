@@ -1,6 +1,26 @@
 {
   "bills": [
     {
+      "number": "H.Res. 28",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
+      "sponsor": "Rep. TallCloud_II",
+      "party": "Reform",
+      "status": "Pending House Deicision",
+      "committee": "None; Referred to House Floor",
+      "date": "07-21-2026",
+      "document": "https://drive.google.com/file/d/1NSOVqqBHBd0TF10qI2paLFg8KcxiBrW7/view?usp=sharing"
+    },
+    {
+      "party": "Farmer-Labor",
+      "status": "Pending House Decision",
+      "committee": "None; Pending House Decision",
+      "date": "07-21-2026",
+      "sponsor": "Rep. Deepfriedtrout",
+      "number": "H.Res. 27",
+      "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
+      "document": "https://drive.google.com/file/d/12DEwFPE8KlblCKgig_9dDK11_z_ovpCx/view?usp=sharing"
+    },
+    {
       "number": "H.Res. 26",
       "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
       "sponsor": "Rep. BravoAlpha34",
