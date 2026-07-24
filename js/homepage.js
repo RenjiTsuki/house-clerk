@@ -10,7 +10,7 @@ data.congress;
 
 
 document.getElementById("session").innerHTML =
-data.session + " | " + data.sheet;
+data.session + " | " + data.date;
 
 
 });
