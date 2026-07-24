@@ -1,6 +1,16 @@
 {
   "bills": [
     {
+      "number": "H.R. 16",
+      "title": "Impeachment Reform Repeal Act",
+      "sponsor": "TallCloud_II",
+      "party": "Reform",
+      "status": "Pending Committee Decision",
+      "committee": "Committee on Rules, Administration, and Ethics",
+      "date": "07-23-2026",
+      "document": "https://drive.google.com/file/d/1a-EGhhChifvZrGALjB6Yeca2cqURYubC/view"
+    },
+    {
       "number": "H.Res. 28",
       "title": "Directing the Clerk of the House of Representatives to transmit a message to the Senate",
       "sponsor": "Rep. TallCloud_II",
